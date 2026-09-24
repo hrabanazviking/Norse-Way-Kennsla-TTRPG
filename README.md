@@ -1,0 +1,2 @@
+# Norse-Way-Kennsla-TTRPG
+Homebrew TTRPG addon material to turn D&amp;D 5E, Old School Essentials, and other TTRPG systems into a true Viking setting based on authentic lore, culture, mythology, Norse-Paganism, and historical based ancient world value systems of the North. Low fantasy, history inspired, authentic Viking folklore and Norse mythology centered gameplay questing.
