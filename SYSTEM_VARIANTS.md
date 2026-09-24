@@ -76,10 +76,52 @@ Hamingja capped at 3.*
 
 ---
 
-## Appendix — The Stranger's Reception (Codex §XXXIII)
+## Episode 6 — Wyrd & Ørlög (Fate as a Woven Web)
 
-*For the coming episode. A revealed non-human among humans triggers the
-1d6 reception table (panic → holy dread); calm acceptance does not exist.*
+*The Norns carve your ørlög at birth. Fate names the price, never the choice.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Birth rune** | GM invokes once/session: advantage on one fitting roll, or a whispered warning | **−2 on a roll-under check** on one fitting roll per session, or the whispered warning |
+| **Norn's reading** | At 5 Wyrd-debt: three runes drawn openly as an unavoidable doom — meet it well | Identical |
+| **Saga-death** | Verse composed, half Orðstír to heir; next character begins with Inspiration and +2 Orðstír | Identical; Inspiration → **one free reroll** for the next character, plus +2 Orðstír |
+
+## Episode 7 — Blót (Sacrifice for the Gods' Favor)
+
+*Give, so the gods give back. They answer only in signs.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **The rite** | Proper place, real offering (silver weight recorded), witnesses; braga-goblet oaths binding | Identical |
+| **Omen roll** | d20 on the omen table; great offering → advantage, stingy → disadvantage | Great offering → **roll twice, take the better omen**; stingy → **roll twice, take the worse** |
+| **Boasting** | Fail the boast, lose Orðstír equal to its boldness | Identical |
+
+## Episode 8 — Holmgang (The Legal Duel)
+
+*Even killing had liturgy: the ring consecrates what the law allows.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Declining** | −3 Orðstír before witnesses (cowardice); social death if the challenge is níð-born | Identical |
+| **The fight** | Normal combat, two ritual constraints: no interference (frith-breach), ends at first blood / yielding / death as sworn | **Normal OSE combat**, same two ritual constraints |
+| **Aftermath** | +2 Orðstír for a just duel; lawful killing owed no weregild | Identical |
+
+## Episode 9 — Hospitality (The Hávamál at the Door)
+
+*Fire, food, and clothes for the frozen traveler.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Guest-rite** | Host must offer fire, food/drink, seat; well performed +1 Orðstír, withheld −1 and a grievance claim | Identical — the rite is system-neutral |
+| **Guest's duties** | Leave by the named day after three days; no boasting; weapons peace-bound | Identical |
+| **Guest-right violation** | Hearth-frith breach; the name spoken at the Thing | Identical |
+
+---
+
+## Episode 10 — The Stranger's Reception (Codex §XXXIII)
+
+*A revealed non-human among humans triggers the 1d6 reception table
+(panic → holy dread); calm acceptance does not exist.*
 
 | | D&D 5E | OSE |
 |---|---|---|
