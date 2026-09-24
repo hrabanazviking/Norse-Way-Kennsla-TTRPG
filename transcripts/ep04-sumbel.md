@@ -21,3 +21,9 @@ The feast becomes a mechanical event, not set-dressing. Players learn to weigh t
 ## Hashtags
 
 #TheNorseWay #VikingDnD #NorsePaganism #TTRPG #HomebrewDnD #VikingAge #TabletopRPG #LearnThroughPlay #NorseMythology
+
+## At an OSE Table
+
+- Vow kept: +2 Orðstír, +1 Hamingja — identical.
+- Vow broken: oathbreaker penalties become **−2 on reaction rolls** among witnesses (instead of disadvantage), −2 Orðstír, one níð-mark.
+- Full dual-system reference: `SYSTEM_VARIANTS.md`.

@@ -19,3 +19,9 @@ Words are weapons with legal standing. Shame here is not a feeling — it is a s
 ## Hashtags
 
 #TheNorseWay #VikingDnD #NorsePaganism #TTRPG #HomebrewDnD #VikingAge #TabletopRPG #LearnThroughPlay #NorseMythology
+
+## At an OSE Table
+
+- Each níð-mark: **−2 on reaction rolls** with those who know (instead of disadvantage on Persuasion/Deception).
+- Níðingr (3 marks): oath worthless, killable without weregild, Hamingja capped at 3 — plus retainers abandon you and hirelings cost double, if any will take your coin.
+- Full dual-system reference: `SYSTEM_VARIANTS.md`.

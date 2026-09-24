@@ -23,3 +23,8 @@ Players stop treating luck as the dice and start treating it as *conduct* — th
 ## Hashtags
 
 #TheNorseWay #VikingDnD #NorsePaganism #TTRPG #HomebrewDnD #VikingAge #TabletopRPG #LearnThroughPlay #NorseMythology
+
+## At an OSE Table
+
+- **Identical.** Spend 1 Hamingja → reroll any d20 and take the better, or force a foe to reroll. Rerolls are system-agnostic.
+- Full dual-system reference: `SYSTEM_VARIANTS.md`.

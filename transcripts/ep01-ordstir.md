@@ -22,3 +22,9 @@ Reputation is the real hit points. Players perform generosity and courage *becau
 ## Hashtags
 
 #TheNorseWay #VikingDnD #NorsePaganism #TTRPG #HomebrewDnD #VikingAge #TabletopRPG #LearnThroughPlay #NorseMythology
+
+## At an OSE Table
+
+- Spend 1 Orðstír → **+1 on a 2d6 reaction roll** where your name matters, or **−2 on a roll-under CHA check**.
+- Everything else is identical — honor is honor in any century.
+- Full dual-system reference: `SYSTEM_VARIANTS.md`.

@@ -21,3 +21,9 @@ Peace was not a default — it was sacred technology maintained by ritual conduc
 ## Hashtags
 
 #TheNorseWay #VikingDnD #NorsePaganism #TTRPG #HomebrewDnD #VikingAge #TabletopRPG #LearnThroughPlay #NorseMythology
+
+## At an OSE Table
+
+- Breaking frith → **−2 on reaction rolls** within the offended circle until weregild is paid (weregild in gp — the OSE economy already speaks this language).
+- Outlawry additionally bars you from hirelings and strongholds.
+- Full dual-system reference: `SYSTEM_VARIANTS.md`.
