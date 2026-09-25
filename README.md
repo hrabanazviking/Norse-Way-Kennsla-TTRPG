@@ -40,9 +40,19 @@ Each transcript file carries: title, full narration transcript, the rule summary
 | 14 | The Thing — Law Without Kings | `videos/ep14-thing.mp4` | `transcripts/ep14-thing.md` |
 | 15 | The Seasonal Wheel — Winter Hands, Summer Sails | `videos/ep15-seasonal-wheel.mp4` | `transcripts/ep15-seasonal-wheel.md` |
 
+## Batch D (Episodes 16–20) — produced 2026-09-25
+
+| # | Episode | Video | Transcript |
+|---|---------|-------|------------|
+| 16 | Seiðr, Galdr, Trolldom — Three Magics, Three Fears | `videos/ep16-seidr-galdr-trolldom.mp4` | `transcripts/ep16-seidr-galdr-trolldom.md` |
+| 17 | Death & the Afterlife — What a Good Death Buys | `videos/ep17-death-afterlife.mp4` | `transcripts/ep17-death-afterlife.md` |
+| 18 | The Ergi Taboo — What Cannot Be Borne | `videos/ep18-ergi.mp4` | `transcripts/ep18-ergi.md` |
+| 19 | Skaldcraft — Poems That Mint Honor | `videos/ep19-skaldcraft.mp4` | `transcripts/ep19-skaldcraft.md` |
+| 20 | Feud & Revenge — The Blood-Debt Engine | `videos/ep20-feud.mp4` | `transcripts/ep20-feud.md` |
+
 ## Phase 2 — Remaining Systems (planned, batches of 5)
 
-- **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge
+- **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge — **done 2026-09-25** ✅
 - **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead
 - **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture
 - **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (two-part GM-screen special)

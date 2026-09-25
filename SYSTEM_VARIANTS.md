@@ -211,3 +211,86 @@ structure forces the rhythm — raid in winter and you drown.*
 
 *Future episodes ship with both stat blocks from the first draft. The
 setting never changes — only the dice.*
+
+---
+
+## Episode 16 — Seiðr, Galdr, Trolldom (Codex §V)
+
+*Three magics, three fears: seiðr's ergi-taint for men, galdr's respectable
+rune-songs, trolldom's hearth workings — all bound by Intent → Ritual →
+Incantation and the absolute taboo on coercion.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Casting law** | Intent → Ritual → Incantation: minutes to hours, materials, witnesses or chosen solitude | **Identical** — the art is the same either system |
+| **Coercion** | Caster rolls Wisdom save; failure rebounds — the fylgja's price | **Save vs Spells**; on failure the working rebounds |
+| **Seiðr** | Learned, not a class feature; hour-long trance with high seat and chanting assistants; male practitioner −1 Orðstír per public working (−3 if flyting-mocked); *völva* gains +Orðstír for true prophecies | **Identical** — costs, trance requirements, and social standing carry over unchanged |
+| **Galdr** | 3 rune-songs at start; carve + chant aloud 1 min + Charisma or Wisdom check; subtle bounded effects | 3 rune-songs at start; carve + chant 1 min + **1d20 ≤ Charisma or Wisdom**; subtle bounded effects |
+| **Trolldom** | Minor domestic effects (advantage on one save, untroubled sleep); paid in materials and time | **Identical** — e.g. +2 on one save instead of advantage |
+
+---
+
+## Episode 17 — Death & the Afterlife (Codex §XIV)
+
+*A geography of the dead, not one afterlife: Valhöll or Fólkvangr for the
+chosen slain, Rán's net for the drowned, Helheim's quiet halls for the
+straw-dead — and rites played, not skipped, or the dead walk.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Funeral rites** | Played, not skipped: burning or mounding; goods recorded and leaving the party's wealth; remembrance goblet at the next blót; skipped rites → the dead may walk | **Identical** — the dead keep their share either system |
+| **Routing** | Valhöll/Fólkvangr (the valkyries' choosing — the GM's secret); Rán's net for the drowned; Helheim's quiet halls for the straw-dead; Náströnd as priestly warning for oathbreakers | **Identical** — believed absolutely in-world, either system |
+| **Rán's offering** | Silver offering before sailing grants advantage on one storm-save | Silver offering grants **+2 on one storm-save** (or a re-roll) |
+| **Good death** | Saga-verse, inherited Orðstír, the next character's bright beginning | **Identical** — the table celebrates it either way |
+
+---
+
+## Episode 18 — The Ergi Taboo (Codex §XVIII)
+
+*The one accusation a man could not let stand: ergi — unmanliness in its
+fullest, ugliest sense. Answer in the scene or take the níð-mark and watch
+the luck drain out.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Ergi-accusation** | Formal flyting charge: public, before witnesses, naming the act — fleeing battle, refusing lawful holmgang, coercive seiðr/trolldom, striking from hiding | **Identical** — the shame is cultural, not mechanical |
+| **Unanswered** | Silence, flight, or weak answer = 1 níð-mark + −2 Hamingja, immediately | **Identical** — níð-marks, Orðstír, and Hamingja are system-neutral |
+| **Proven ergi-act** | 1 níð-mark, −2 Orðstír, −1 Hamingja; open NPC contempt until atonement | **Identical** either system |
+| **Seiðr nuance** | No taint for prophecy/healing/counsel at need; taint for coercive, underhand use — the GM judges intent *publicly* | **Identical** — the customs officers work every shift |
+
+---
+
+## Episode 19 — Skaldcraft (Codex §XX)
+
+*The skald was a mint: drápur that made renown permanent and portable,
+níðvísur that flayed it — and Egill's head-ransom, the codex's one built-in
+miracle.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Composing** | Charisma (Performance) check, DC 15; player speaks a full stanza aloud at the table (kennings encouraged); success mints the poem as an item | **1d20 ≤ Charisma** (DC 15 in 5E terms); the spoken stanza is still required |
+| **Drápa** | Subject +1 Orðstír among hearers; skald +1 Orðstír per notable patron (max +3); commissioned drápa priced no less than a good sword; funeral drápa grants the heir +1 starting Orðstír | **Identical** — priced in gp, no less than a good sword |
+| **Níðvísa** | Subject −1 Orðstír among hearers; answer by flyting, holmgang, or counter-poem, or take a níð-mark; a false níðvísa earns the *skald* a níð-mark | **Identical** — the weapon cuts both ways either system |
+| **Head-ransom** | Compose through the night; one Performance check at disadvantage, DC 20; success binds the honorable judge to spare the skald | Compose through the night; one check at **disadvantage** against a hard target; the judge must hear the poem, played straight |
+
+---
+
+## Episode 20 — Feud & Revenge (Codex §XXI)
+
+*The blood-debt engine: every unlawful killing becomes a recorded debt with
+a temperature — Cool, Warm, Burning — settled by weregild at the Thing or
+acted out in feud-turns.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Recording** | Who, of whom, when, witnessed by whom — plus the weregild ladder and temperature: Cool / Warm / Burning | **Identical** — the ledger is system-neutral |
+| **Temperature** | Rises one step per unaddressed month, or immediately on new insult, theft, or violence | **Identical** — Cool → Warm → Burning |
+| **Feud-turns** | At Burning, each session roll 1d6 — on 4+ the feud acts | **Identical** — 1d6 on 4+, the feud acts; OSE morale and hireling rules sharpen the fallout |
+| **Settlement** | Weregild paid in full at the Thing, publicly → *Settled*, both sides +1 Orðstír; underpaid or improper → stays Warm | **Identical** — weregild paid in gp from the `weregild.json` ladder |
+| **Vengeance** | Open, announced vengeance *transfers* the debt (no níð-mark, no Orðstír); secret vengeance = 1 níð-mark + the debt stands | **Identical** — the culture despises the hidden knife either system |
+| **Festering** | Blood-debt at Burning for three months → 1 Hamingja lost per month | **Identical** — the feud poisons the luck-line |
+
+---
+
+*Future episodes ship with both stat blocks from the first draft. The
+setting never changes — only the dice.*
