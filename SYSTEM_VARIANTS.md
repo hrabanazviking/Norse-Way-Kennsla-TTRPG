@@ -134,5 +134,80 @@ Hamingja capped at 3.*
 
 ---
 
+## Episode 11 — Oaths (Codex §IX)
+
+*An oath is sworn aloud in exact words before witnesses, naming the power
+sworn by; while pursuing it, advantage on one check a day; breaking it is
+eiðrofi — Orðstír drops to 1, debt-tokens owed to the breaker are void,
+3 Wyrd-debt.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Swearing grants power** | Advantage on one check per day directly serving the oath | **+2 on one roll per day** directly serving the oath (or roll twice, keep better, if the table prefers) |
+| **Breaking the oath** | *eiðrofi*: Orðstír to 1, debt-tokens owed *to* them void, 3 Wyrd-debt; atonement as codex §IX | **Identical** — honor is honor in any century |
+| **Braga-goblet boasts** | Sworn over the cup at sumbel (§IV) they are oaths; the GM writes them down | Identical |
+
+---
+
+## Episode 12 — Flyting (Codex §X)
+
+*Best of three spoken insult-exchanges; each round must cut deeper than the
+last; the loser answers with holmgang or loses 2 Orðstír publicly; níð
+unanswered by dusk makes the accused níðingr.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Each round** | Both roll Charisma (Performance or Intimidation — attacker's choice) | Both roll **1d20 ≤ Charisma**; a trained speaker shifts their effective score **−2** in their favor |
+| **Escalation** | Repeated or weak insult is an automatic round loss — the form must be spoken aloud, in character | **Identical** — no dice can speak the insult for you |
+| **Outcome** | Loser answers with holmgang (§XI) or loses 2 Orðstír publicly; winner +1; *níð* unanswered by dusk → *níðingr* | **Identical** — the stakes are honor, not mechanics |
+
+---
+
+## Episode 13 — Gift & Debt (Codex §VI)
+
+*A gift of real value creates a debt-token; the receiver must repay with
+greater value before the next seasonal turn or lose 1 Orðstír per unanswered
+token; weregild is the gift that ends a feud.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Debt-tokens** | Physical at the table (stones, beads); ~1+ ounce of silver threshold | **Identical** — visible, like honor |
+| **Unanswered tokens** | −1 Orðstír per token at the seasonal turn; the giver gains +1 | **Identical** — the ledger is system-neutral |
+| **Refusing a gift** | −1 Orðstír unless a reason is spoken before witnesses | Identical |
+| **Weregild** | Paid in gp; `weregild.json` ladder in silver weight | Paid in gp — the OSE economy already speaks this language |
+
+---
+
+## Episode 14 — The Thing (Codex §VII)
+
+*Law without kings: a four-phase structured social encounter — announcement,
+oath, pleading, judgment — with visible crowd mood, oath-helpers, and the
+outlawry grades fjörbaugsgarðr and skóggangr.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Announcement** | Charisma (Performance); a well-spoken charge grants advantage later | **2d6 reaction roll**; a well-spoken charge grants **+2** in the pleading |
+| **Oath** | Both parties swear with oath-helpers of good Orðstír | **Identical** — oath-helpers weigh the same either way |
+| **Pleading** | Insight to catch lies, Persuasion to move the crowd, History to cite precedent | **1d20 ≤ Wisdom** to catch lies, **2d6 reaction roll** to move the crowd, **1d20 ≤ Intelligence** to cite precedent |
+| **Outlawry** | As codex §VII; full outlawry strips all Orðstír (*vargr*) | As codex §VII; additionally no hirelings will serve you and no stronghold will take you in |
+| **Drawing steel in the circle** | Grave frith-breach (*þingfriðr*) | Grave frith-breach — the law protects itself first, either system |
+
+---
+
+## Episode 15 — The Seasonal Wheel (Codex §XII)
+
+*The year turns on two hinges: Winter (the sea closed, winter-work,
+debts come due) and Summer (the sea opens, summer-faring). The turn
+structure forces the rhythm — raid in winter and you drown.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Seasonal turns** | Winter / Summer, advanced with a season-rite at the table | **Identical** — the calendar does not care what dice you roll |
+| **Winter** | Seafaring checks automatically fail; each PC chooses winter-work (craft, hospitality, plotting, learning) | **Identical** — the sea is closed in either system |
+| **Summer-faring** | *víking* (raid), *kaup* (trade), *landnám* (explore/settle), *heim* (stay and farm) | **Identical** choices; OSE's own naval and morale rules resolve the voyage |
+| **Farming** | Single season-check: good harvest = wealth + Orðstír; bad harvest = hunger | **1d20 ≤ the relevant ability** — same stakes, same hunger |
+
+---
+
 *Future episodes ship with both stat blocks from the first draft. The
 setting never changes — only the dice.*

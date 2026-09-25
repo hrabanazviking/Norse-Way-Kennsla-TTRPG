@@ -30,9 +30,18 @@ Each transcript file carries: title, full narration transcript, the rule summary
 (with its codex section reference), the teaching beat, a hashtag block, and an
 "At an OSE Table" sidebar with the Old School Essentials stat block.
 
+## Batch C (Episodes 11–15) — produced 2026-09-24
+
+| # | Episode | Video | Transcript |
+|---|---------|-------|------------|
+| 11 | Oaths — Words That Bind Like Iron | `videos/ep11-oaths.mp4` | `transcripts/ep11-oaths.md` |
+| 12 | Flyting — War with Words | `videos/ep12-flyting.mp4` | `transcripts/ep12-flyting.md` |
+| 13 | Gift & Debt — The Obligation Web | `videos/ep13-gift-debt.mp4` | `transcripts/ep13-gift-debt.md` |
+| 14 | The Thing — Law Without Kings | `videos/ep14-thing.mp4` | `transcripts/ep14-thing.md` |
+| 15 | The Seasonal Wheel — Winter Hands, Summer Sails | `videos/ep15-seasonal-wheel.mp4` | `transcripts/ep15-seasonal-wheel.md` |
+
 ## Phase 2 — Remaining Systems (planned, batches of 5)
 
-- **Batch C (11–15):** Oaths · Flyting · Gift & Debt · The Thing · The Seasonal Wheel
 - **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge
 - **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead
 - **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture
