@@ -50,10 +50,20 @@ Each transcript file carries: title, full narration transcript, the rule summary
 | 19 | Skaldcraft — Poems That Mint Honor | `videos/ep19-skaldcraft.mp4` | `transcripts/ep19-skaldcraft.md` |
 | 20 | Feud & Revenge — The Blood-Debt Engine | `videos/ep20-feud.mp4` | `transcripts/ep20-feud.md` |
 
+## Batch E (Episodes 21–25) — produced 2026-09-25
+
+| # | Episode | Video | Transcript |
+|---|---------|-------|------------|
+| 21 | Seafaring — The Whale-Road Without Shortcuts | `videos/ep21-seafaring.mp4` | `transcripts/ep21-seafaring.md` |
+| 22 | Outlawry — Life Outside the Law | `videos/ep22-outlawry.mp4` | `transcripts/ep22-outlawry.md` |
+| 23 | Draumr — Dreams as Intelligence | `videos/ep23-draumr.mp4` | `transcripts/ep23-draumr.md` |
+| 24 | Spá & Útiseta — Asking Fate Its Price | `videos/ep24-spa-utiseta.mp4` | `transcripts/ep24-spa-utiseta.md` |
+| 25 | Landvættir & the Dead — The Neighbors You Cannot See | `videos/ep25-landvaettir-dead.mp4` | `transcripts/ep25-landvaettir-dead.md` |
+
 ## Phase 2 — Remaining Systems (planned, batches of 5)
 
 - **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge — **done 2026-09-25** ✅
-- **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead
+- **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead — **done 2026-09-25** ✅
 - **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture
 - **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (two-part GM-screen special)
 

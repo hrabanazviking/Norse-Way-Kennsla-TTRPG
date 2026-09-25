@@ -292,5 +292,83 @@ acted out in feud-turns.*
 
 ---
 
+## Episode 21 — Seafaring (Codex §XIII)
+
+*No compass, no charts, no shortcuts: voyages planned in day's sails, sailing
+checks that can leave you hafvilla, reading the sea as the Norse GPS, and
+storms that are wyrd — a ship is worth more than a farm.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Navigation aids** | None — no teleportation, no fantasy aids; voyages planned in day's sails between real canon landmarks | **Identical** — the whale-road knows no shortcuts either system |
+| **Sailing check** | Each day's sail: Wisdom (Survival); advantage with a seasoned pilot or visible landmarks, disadvantage in fog/storm/unknown waters; failure = *hafvilla* (off course, supplies burning, GM rolls secretly) | **1d20 ≤ Wisdom** each day's sail; **−2** (easier) with pilot or landmarks, **+2** (harder) in fog/storm/unknown waters; *hafvilla* identical |
+| **Reading the sea** | Intelligence (Nature), once per day; success gives the steersman advantage on the next sailing check | **1d20 ≤ Intelligence**, once per day; success gives the steersman **−2** on the next sailing check |
+| **Storms** | Wyrd: run before it (lose course, maybe ship), beach it (lose time, save lives), or ride it out (Constitution saves vs. exhaustion, ship damage); no *control weather* shortcut | The three choices **identical**; ride-it-out Constitution saves → **Save vs Death**; no *control weather* either system |
+| **Beaching** | Ships hauled ashore nightly where possible; an unwatched anchored ship may be cut loose | **Identical** — a ship is worth more than a farm either system |
+
+---
+
+## Episode 22 — Outlawry (Codex §XXII)
+
+*The cold edge of the world: lesser outlawry's three-year exile vs. the
+forest-walker's total stripping of frith, Exposure-tracked survival play,
+and a sentence lifted only by pardon, a worse outlaw's death, or a saga-
+ending deed.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Lesser outlawry** | Three years banished, property forfeit, −3 Orðstír until lawful return, Hamingja capped at 5, kin shelter once per year | **Identical** — the exile is system-neutral |
+| **Full outlawry** | No frith; killable without weregild; no knowing shelter on pain of sharing the sentence | **Identical**; additionally no hirelings will serve you and no stronghold will take you in |
+| **Exposure** | Each week wilds without proper shelter: Constitution save DC 12 +1 per consecutive week, or +1 exhaustion; winter doubles the DC | **Save vs Death** each week without shelter, or +1 exhaustion; the rising cost (+1 per week, doubled in winter) stays as written |
+| **Bounty** | GM sets a silver bounty; bounty-hunters as wandering encounters; a fair-fight hunter's kill earns no debt but +1 Orðstír among the discontented | Bounty in **gp**; everything else **identical** |
+| **Lifting the sentence** | Lesser ends by time served; full ends only by royal pardon, lawful killing of a worse outlaw, or a deed the Thing votes back | **Identical** — it should feel like a saga-ending either system |
+
+---
+
+## Episode 23 — Draumr (Codex §XXIII)
+
+*Dreams as dispatches, not metaphors: secret dream-rolls at significant
+rests, interpretation that must be earned, heeding rewarded with Hamingja —
+and the epitaph of the dream-deaf: he was warned.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Dream-roll** | Long rest in a place of significance: GM rolls secretly, 1–4 on 1d6 the sleeper dreams true; the dream is imagery, never instruction | **Identical** — the gods' postal service runs either system |
+| **Interpretation** | Wisdom (Insight) DC 13, advantage if a völva, goði, or wise one reads; success = plain warning, failure = two meanings, one true | **1d20 ≤ Wisdom** (DC 13 in 5E terms), **−2** (easier) with a wise reader; plain vs. muddled readings identical |
+| **Heeding** | +1 Hamingja; the warned-against disaster is *softened* | **Identical** — Hamingja is system-neutral |
+| **Ignoring / mocking** | Ignored: −1 Hamingja, disaster at full force; mocked: −1 Orðstír among the hearers; dream-debt for the dream-deaf dead (no inherited Orðstír bonus) | **Identical** either system |
+
+---
+
+## Episode 24 — Spá & Útiseta (Codex §XXIV)
+
+*Consultation with consequence: one question aloud, an hour of trance, a
+riddle for an answer — and fate does no free samples; útiseta wins one true
+dream-image at a night's cold price, but never for the same question twice.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Asking the spá** | One question aloud before witnesses; hour-long trance; riddle-answer — true, veiled, never a plan | **Identical** — the rite is system-neutral |
+| **Small price** | Worthy gift (silver, weapon, named service); stingy payment = muddled answer (two meanings, one true) | **Identical** — gifts priced in **gp** |
+| **Wyrd-price** | +1 Wyrd-debt after any spá; forbidden questions (when you die; demanding the gods change what's woven) answered with silence, seeker −1 Hamingja | **Identical** — knowing the shape of doom binds you tighter either system |
+| **Útiseta** | Alone dusk to dawn at mound/shore/crossroads, fasting; Constitution save DC 13 at dawn or +1 exhaustion; success grants one true dream-image or whispered answer at +1 Wyrd-debt; never repeated for the same question | Constitution save → **Save vs Death**; everything else **identical** — the second sitting brings only wind |
+
+---
+
+## Episode 25 — Landvættir & the Dead (Codex §XXV)
+
+*The neighbors you cannot see: greet the spirits of place or the land turns
+cold, and the dead are a maintenance obligation — a death without rites may
+walk as a draugr, and killing it twice without rites just makes it angrier.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Honoring** | Small offering + spoken greeting (new territory, farm-founding, before a voyage): +1 Hamingja, land *friendly*; skipped: −1 Hamingja, land *cold* (one petty misfortune) | **Identical** — the animist economy keeps accounts either system |
+| **Insult** | −2 Hamingja and a haunting (minor phenomena; no benefit from one long rest in seven) until a proper blót plus a gift of real value | **Identical** — blót costs in **gp** |
+| **Draugr** | Death without proper rites: GM rolls secretly, 1–2 on 1d6 the dead walks (wight or ghast stat block, SRD, reskinned); it has *business* and cannot be laid until the business is settled *and* the rites are performed | Use the OSE **wight or ghoul** entry, reskinned; the business-and-rites rule **identical** |
+| **Ancestor maintenance** | Mound kept, minni at sumbel, names at the Thing: +1 Hamingja per observed season; a full year's neglect: −1 Hamingja and restless dreams until tended | **Identical** — the dead lend their luck either system |
+
+---
+
 *Future episodes ship with both stat blocks from the first draft. The
 setting never changes — only the dice.*
