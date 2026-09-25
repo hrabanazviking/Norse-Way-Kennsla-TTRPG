@@ -85,6 +85,10 @@ are marked. Mechanical source of truth: `HOMEBREW_CODEX.md`; dual-system
 reference: `SYSTEM_VARIANTS.md`. Episodes 26+ get their rule files as their
 video batches publish.
 
+**The master book:** `THE_NORSE_WAY_COMPLETE_RULES.md` gathers all 25 written
+expansions into a single document — one H1, a linked table of contents, every
+chapter demoted beneath it. The whole ruleset, cover to cover.
+
 ## Layout
 
 ```
@@ -99,6 +103,8 @@ norse-way-videos/
 ├── rules/               ← written rule expansions, one .md per episode (ep01–ep25)
 │                          three-beat form: Grounding → Complete Playable Rule
 │                          (5E + OSE) → Teaching Beat, with provenance labels
+├── THE_NORSE_WAY_COMPLETE_RULES.md ← the master book: all 25 expansions in
+│                          one document, with linked table of contents
 └── SYSTEM_VARIANTS.md   ← dual-system 5E/OSE quick reference per episode
 ```
 

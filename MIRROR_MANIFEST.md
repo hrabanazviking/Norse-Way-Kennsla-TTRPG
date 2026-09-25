@@ -61,6 +61,7 @@ Source (`norse-way-videos/`) → Destination (`videos/rules/` in Sagnaskemma)
 | `transcripts/ep24-spa-utiseta.md` | `videos/rules/transcripts/ep24-spa-utiseta.md` |
 | `transcripts/ep25-landvaettir-dead.md` | `videos/rules/transcripts/ep25-landvaettir-dead.md` |
 | `rules/README.md` | `videos/rules/rules/README.md` |
+| `THE_NORSE_WAY_COMPLETE_RULES.md` | `videos/rules/THE_NORSE_WAY_COMPLETE_RULES.md` |
 | `rules/ep01-ordstir.md` | `videos/rules/rules/ep01-ordstir.md` |
 | `rules/ep02-frith.md` | `videos/rules/rules/ep02-frith.md` |
 | `rules/ep03-hamingja.md` | `videos/rules/rules/ep03-hamingja.md` |
