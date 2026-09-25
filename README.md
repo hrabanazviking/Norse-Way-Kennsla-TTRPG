@@ -67,6 +67,24 @@ Each transcript file carries: title, full narration transcript, the rule summary
 - **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture
 - **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (two-part GM-screen special)
 
+## Written Rule Expansions
+
+`rules/` holds the full written form of every episode's mechanic — one Markdown
+file per episode (`rules/ep01-ordstir.md` … `rules/ep25-landvaettir-dead.md`),
+each in Volmarr's three-beat law:
+
+1. **Grounding** — historical, mythological, or textual roots with real
+   citations from the Mímir-Vörðr corpus; homebrew inventions labeled as such.
+2. **The Complete Playable Rule** — full mechanics for D&D 5E *and* Old School
+   Essentials, expanded beyond the video: edge cases, examples of play, every
+   number a table needs.
+3. **Teaching Beat** — what players learn about Viking-Age culture by playing it.
+
+Provenance is labeled per section: Volmarr's canon is law; assistant additions
+are marked. Mechanical source of truth: `HOMEBREW_CODEX.md`; dual-system
+reference: `SYSTEM_VARIANTS.md`. Episodes 26+ get their rule files as their
+video batches publish.
+
 ## Layout
 
 ```
@@ -77,13 +95,18 @@ norse-way-videos/
 ├── scripts/             ← narration scripts (production source)
 ├── audio/               ← Rumi TTS narration MP3s (production source)
 ├── clips/               ← raw ~10s generated video clips (production source)
-└── assets/              ← Unnr reference portrait (visual-continuity anchor)
+├── assets/              ← Unnr reference portrait (visual-continuity anchor)
+├── rules/               ← written rule expansions, one .md per episode (ep01–ep25)
+│                          three-beat form: Grounding → Complete Playable Rule
+│                          (5E + OSE) → Teaching Beat, with provenance labels
+└── SYSTEM_VARIANTS.md   ← dual-system 5E/OSE quick reference per episode
 ```
 
 ## Mirrors & Publishing
 
 - **Public repo:** a new separate public repository will host this series. Repo name
   pending — Volmarr creates it, then this layout pushes as-is.
-- **Private mirror:** identical copies of `videos/` + `transcripts/` belong under
-  `videos/rules/` in the private **Sagnaskemma** repository. See `MIRROR_MANIFEST.md`.
+- **Private mirror:** identical copies of `videos/` + `transcripts/` + `rules/`
+  belong under `videos/rules/` in the private **Sagnaskemma** repository.
+  See `MIRROR_MANIFEST.md`.
 - Nothing here is posted to social media without Volmarr's separate authorization.

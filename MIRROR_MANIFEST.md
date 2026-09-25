@@ -35,15 +35,61 @@ Source (`norse-way-videos/`) → Destination (`videos/rules/` in Sagnaskemma)
 | `videos/ep13-gift-debt.mp4` | `videos/rules/ep13-gift-debt.mp4` |
 | `videos/ep14-thing.mp4` | `videos/rules/ep14-thing.mp4` |
 | `videos/ep15-seasonal-wheel.mp4` | `videos/rules/ep15-seasonal-wheel.mp4` |
+| `videos/ep16-seidr-galdr-trolldom.mp4` | `videos/rules/ep16-seidr-galdr-trolldom.mp4` |
+| `videos/ep17-death-afterlife.mp4` | `videos/rules/ep17-death-afterlife.mp4` |
+| `videos/ep18-ergi.mp4` | `videos/rules/ep18-ergi.mp4` |
+| `videos/ep19-skaldcraft.mp4` | `videos/rules/ep19-skaldcraft.mp4` |
+| `videos/ep20-feud.mp4` | `videos/rules/ep20-feud.mp4` |
 | `transcripts/ep11-oaths.md` | `videos/rules/transcripts/ep11-oaths.md` |
 | `transcripts/ep12-flyting.md` | `videos/rules/transcripts/ep12-flyting.md` |
 | `transcripts/ep13-gift-debt.md` | `videos/rules/transcripts/ep13-gift-debt.md` |
 | `transcripts/ep14-thing.md` | `videos/rules/transcripts/ep14-thing.md` |
 | `transcripts/ep15-seasonal-wheel.md` | `videos/rules/transcripts/ep15-seasonal-wheel.md` |
+| `transcripts/ep16-seidr-galdr-trolldom.md` | `videos/rules/transcripts/ep16-seidr-galdr-trolldom.md` |
+| `transcripts/ep17-death-afterlife.md` | `videos/rules/transcripts/ep17-death-afterlife.md` |
+| `transcripts/ep18-ergi.md` | `videos/rules/transcripts/ep18-ergi.md` |
+| `transcripts/ep19-skaldcraft.md` | `videos/rules/transcripts/ep19-skaldcraft.md` |
+| `transcripts/ep20-feud.md` | `videos/rules/transcripts/ep20-feud.md` |
+| `videos/ep21-seafaring.mp4` | `videos/rules/ep21-seafaring.mp4` |
+| `videos/ep22-outlawry.mp4` | `videos/rules/ep22-outlawry.mp4` |
+| `videos/ep23-draumr.mp4` | `videos/rules/ep23-draumr.mp4` |
+| `videos/ep24-spa-utiseta.mp4` | `videos/rules/ep24-spa-utiseta.mp4` |
+| `videos/ep25-landvaettir-dead.mp4` | `videos/rules/ep25-landvaettir-dead.mp4` |
+| `transcripts/ep21-seafaring.md` | `videos/rules/transcripts/ep21-seafaring.md` |
+| `transcripts/ep22-outlawry.md` | `videos/rules/transcripts/ep22-outlawry.md` |
+| `transcripts/ep23-draumr.md` | `videos/rules/transcripts/ep23-draumr.md` |
+| `transcripts/ep24-spa-utiseta.md` | `videos/rules/transcripts/ep24-spa-utiseta.md` |
+| `transcripts/ep25-landvaettir-dead.md` | `videos/rules/transcripts/ep25-landvaettir-dead.md` |
+| `rules/README.md` | `videos/rules/rules/README.md` |
+| `rules/ep01-ordstir.md` | `videos/rules/rules/ep01-ordstir.md` |
+| `rules/ep02-frith.md` | `videos/rules/rules/ep02-frith.md` |
+| `rules/ep03-hamingja.md` | `videos/rules/rules/ep03-hamingja.md` |
+| `rules/ep04-sumbel.md` | `videos/rules/rules/ep04-sumbel.md` |
+| `rules/ep05-nid.md` | `videos/rules/rules/ep05-nid.md` |
+| `rules/ep06-wyrd.md` | `videos/rules/rules/ep06-wyrd.md` |
+| `rules/ep07-blot.md` | `videos/rules/rules/ep07-blot.md` |
+| `rules/ep08-holmgang.md` | `videos/rules/rules/ep08-holmgang.md` |
+| `rules/ep09-hospitality.md` | `videos/rules/rules/ep09-hospitality.md` |
+| `rules/ep10-stranger.md` | `videos/rules/rules/ep10-stranger.md` |
+| `rules/ep11-oaths.md` | `videos/rules/rules/ep11-oaths.md` |
+| `rules/ep12-flyting.md` | `videos/rules/rules/ep12-flyting.md` |
+| `rules/ep13-gift-debt.md` | `videos/rules/rules/ep13-gift-debt.md` |
+| `rules/ep14-thing.md` | `videos/rules/rules/ep14-thing.md` |
+| `rules/ep15-seasonal-wheel.md` | `videos/rules/rules/ep15-seasonal-wheel.md` |
+| `rules/ep16-seidr-galdr-trolldom.md` | `videos/rules/rules/ep16-seidr-galdr-trolldom.md` |
+| `rules/ep17-death-afterlife.md` | `videos/rules/rules/ep17-death-afterlife.md` |
+| `rules/ep18-ergi.md` | `videos/rules/rules/ep18-ergi.md` |
+| `rules/ep19-skaldcraft.md` | `videos/rules/rules/ep19-skaldcraft.md` |
+| `rules/ep20-feud.md` | `videos/rules/rules/ep20-feud.md` |
+| `rules/ep21-seafaring.md` | `videos/rules/rules/ep21-seafaring.md` |
+| `rules/ep22-outlawry.md` | `videos/rules/rules/ep22-outlawry.md` |
+| `rules/ep23-draumr.md` | `videos/rules/rules/ep23-draumr.md` |
+| `rules/ep24-spa-utiseta.md` | `videos/rules/rules/ep24-spa-utiseta.md` |
+| `rules/ep25-landvaettir-dead.md` | `videos/rules/rules/ep25-landvaettir-dead.md` |
 
-Production sources (`scripts/`, `audio/`, `clips/`, `assets/`, `assemble.sh`)
+Production sources (`scripts/`, `audio/`, `clips/`, `assets/`, `assemble*.sh`)
 stay in the public repo only — Sagnaskemma keeps the publishable artifacts
-(MP4s + transcripts + README), not the raw materials.
+(MP4s + transcripts + written rule expansions + READMEs), not the raw materials.
 
 ## Provenance label
 
