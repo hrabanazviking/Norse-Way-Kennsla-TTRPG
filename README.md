@@ -60,17 +60,27 @@ Each transcript file carries: title, full narration transcript, the rule summary
 | 24 | Spá & Útiseta — Asking Fate Its Price | `videos/ep24-spa-utiseta.mp4` | `transcripts/ep24-spa-utiseta.md` |
 | 25 | Landvættir & the Dead — The Neighbors You Cannot See | `videos/ep25-landvaettir-dead.mp4` | `transcripts/ep25-landvaettir-dead.md` |
 
+## Batch F (Episodes 26–30) — produced 2026-09-25
+
+| # | Episode | Video | Transcript |
+|---|---------|-------|------------|
+| 26 | Fosterage & Kinship — The Bonds That Bind | `videos/ep26-fosterage-kinship.mp4` | `transcripts/ep26-fosterage-kinship.md` |
+| 27 | Marriage, Mundr & Divorce — Alliance Law | `videos/ep27-marriage-mundr-divorce.mp4` | `transcripts/ep27-marriage-mundr-divorce.md` |
+| 28 | Óðal — The Ancestral Acres | `videos/ep28-odal.mp4` | `transcripts/ep28-odal.md` |
+| 29 | Knattleikr & Hnefatafl — Games That Teach War | `videos/ep29-knattleikr-hnefatafl.mp4` | `transcripts/ep29-knattleikr-hnefatafl.md` |
+| 30 | Ship-Culture — The Ship as Self | `videos/ep30-ship-culture.mp4` | `transcripts/ep30-ship-culture.md` |
+
 ## Phase 2 — Remaining Systems (planned, batches of 5)
 
 - **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge — **done 2026-09-25** ✅
 - **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead — **done 2026-09-25** ✅
-- **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture
+- **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture — **done 2026-09-25** ✅
 - **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (two-part GM-screen special)
 
 ## Written Rule Expansions
 
 `rules/` holds the full written form of every episode's mechanic — one Markdown
-file per episode (`rules/ep01-ordstir.md` … `rules/ep25-landvaettir-dead.md`),
+file per episode (`rules/ep01-ordstir.md` … `rules/ep30-ship-culture.md`),
 each in Volmarr's three-beat law:
 
 1. **Grounding** — historical, mythological, or textual roots with real
@@ -82,10 +92,10 @@ each in Volmarr's three-beat law:
 
 Provenance is labeled per section: Volmarr's canon is law; assistant additions
 are marked. Mechanical source of truth: `HOMEBREW_CODEX.md`; dual-system
-reference: `SYSTEM_VARIANTS.md`. Episodes 26+ get their rule files as their
-video batches publish.
+reference: `SYSTEM_VARIANTS.md`. Episodes 31+ get their rule files as their
+video batch publishes.
 
-**The master book:** `THE_NORSE_WAY_COMPLETE_RULES.md` gathers all 25 written
+**The master book:** `THE_NORSE_WAY_COMPLETE_RULES.md` gathers all 30 written
 expansions into a single document — one H1, a linked table of contents, every
 chapter demoted beneath it. The whole ruleset, cover to cover.
 
@@ -100,10 +110,10 @@ norse-way-videos/
 ├── audio/               ← Rumi TTS narration MP3s (production source)
 ├── clips/               ← raw ~10s generated video clips (production source)
 ├── assets/              ← Unnr reference portrait (visual-continuity anchor)
-├── rules/               ← written rule expansions, one .md per episode (ep01–ep25)
+├── rules/               ← written rule expansions, one .md per episode (ep01–ep30)
 │                          three-beat form: Grounding → Complete Playable Rule
 │                          (5E + OSE) → Teaching Beat, with provenance labels
-├── THE_NORSE_WAY_COMPLETE_RULES.md ← the master book: all 25 expansions in
+├── THE_NORSE_WAY_COMPLETE_RULES.md ← the master book: all 30 expansions in
 │                          one document, with linked table of contents
 └── SYSTEM_VARIANTS.md   ← dual-system 5E/OSE quick reference per episode
 ```

@@ -16,9 +16,9 @@ additions are marked and never reinterpret him.
 
 ## Coverage
 
-- `ep01`–`ep25` — written expansions complete (Episodes 1–25).
-- `ep26` and beyond — land here as their video batches publish
-  (Batch F: 26–30, Batch G: 31–32).
+- `ep01`–`ep30` — written expansions complete (Episodes 1–30).
+- `ep31` and beyond — land here as their video batch publishes
+  (Batch G: 31–32).
 
 Each file links back to its episode video (`videos/`) and transcript
 (`transcripts/`). Mechanical source of truth: Volmarr's

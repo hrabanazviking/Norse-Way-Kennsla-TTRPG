@@ -209,11 +209,6 @@ structure forces the rhythm — raid in winter and you drown.*
 
 ---
 
-*Future episodes ship with both stat blocks from the first draft. The
-setting never changes — only the dice.*
-
----
-
 ## Episode 16 — Seiðr, Galdr, Trolldom (Codex §V)
 
 *Three magics, three fears: seiðr's ergi-taint for men, galdr's respectable
@@ -367,6 +362,75 @@ walk as a draugr, and killing it twice without rites just makes it angrier.*
 | **Insult** | −2 Hamingja and a haunting (minor phenomena; no benefit from one long rest in seven) until a proper blót plus a gift of real value | **Identical** — blót costs in **gp** |
 | **Draugr** | Death without proper rites: GM rolls secretly, 1–2 on 1d6 the dead walks (wight or ghast stat block, SRD, reskinned); it has *business* and cannot be laid until the business is settled *and* the rites are performed | Use the OSE **wight or ghoul** entry, reskinned; the business-and-rites rule **identical** |
 | **Ancestor maintenance** | Mound kept, minni at sumbel, names at the Thing: +1 Hamingja per observed season; a full year's neglect: −1 Hamingja and restless dreams until tended | **Identical** — the dead lend their luck either system |
+
+---
+
+## Episode 26 — Fosterage & Kinship (Codex §XXVI)
+
+*Chosen kin are stronger than blood: pooled honor, shared luck, and the heaviest price for betrayal — because fosterage was chosen.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Foster-tie** | Declare one foster-father/mother or foster-sibling (NPC or fellow PC), at creation or forged in play | **Identical** |
+| **Pooled honor** | Spend your Orðstír on foster-kin’s checks (Persuasion, Thing cases) and they for you — declared aloud, §I caps apply | Spend 1 Orðstír → +1 on a 2d6 reaction roll or **−2** on a roll-under CHA check; cap 5 Orðstír per roll |
+| **Shared luck** | Hamingja bequest flows to foster-kin as to blood | **Identical** — the luck-line lives in the house, not the veins |
+| **Betrayal** | Abandoning in battle, false testimony, refused lawful shelter: **2 níð-marks** | **Identical** |
+| **Kin-claims** | GM may present one per adventure: answered → +1 Orðstír + banked favor; ignored without lawful excuse → −1 Orðstír, −1 Hamingja | **Identical** |
+| **Oath-helpers** | At the Thing: standing kin + foster-kin + sworn companions willing to stand; each ignored kin-claim shrinks the count | **Identical** |
+
+---
+
+## Episode 27 — Marriage, Mundr & Divorce (Codex §XXVII)
+
+*Marriage as treaty, divorce as legal instrument: silver negotiated against the weregild ladder, and the dowry that keeps a woman free.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Arranging** | Mundr negotiated on the weregild ladder: Charisma (Persuasion) contest between spokesmen, best of three, Orðstír spendable | Opposed **1d20 ≤ Charisma**, best of three; Orðstír 1-for-1 as **−2** on your roll or +2 on theirs |
+| **The alliance** | Treaty: mutual oath-helper rights, shared Hamingja bequest; +1 Orðstír both houses while the marriage stands and is fruitful; marrying up → +1 Hamingja for the lower house | **Identical** |
+| **Divorce** | Declared before witnesses on lawful grounds; treaty ends; mundr returned or forfeit by fault (GM or Thing); the divorced woman keeps her heimanfylgja | **Identical** |
+| **Feud-settlement** | Marriage across a blood-debt: *Settled* feud, both houses **+2 Orðstír** instead of +1 | **Identical** — the saga’s favorite ending pays either system |
+
+---
+
+## Episode 28 — Óðal (Codex §XXVIII)
+
+*Identity with a deed: the ancestral acres as a character of their own, the highest-stakes campaign engine — and the greatest prize for winning back what the fathers held.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **The holding** | The farm as its own character: name, acres, livestock, Óðal-rating 1–5; each year held and worked: +1 Orðstír (head of household), +1 Hamingja (household) | **Identical** |
+| **Threats** | Jarl’s collectors, rival Thing-claim, king’s redistribution, debt foreclosure — defend by law, payment, or force: success → +2 Orðstír, +1 Hamingja; surrender without a fight → −2 Orðstír, −1 Hamingja, oath-helpers halved | **Identical** |
+| **Redemption** | Sold under duress: any kinsman may redeem within a year and a day for price + weregild-scale fee; redeeming lost family land → **+3 Orðstír** | Fee priced in **gp**; everything else **identical** |
+| **New land** | Three winters of clearing and holding creates óðal; each winter survived → +1 Orðstír | **Identical** |
+
+---
+
+## Episode 29 — Knattleikr & Hnefatafl (Codex §XXIX)
+
+*Games that teach war: the ball-game trains the body, the king’s-table trains the war-leader’s eye — and the stakes are always the real game.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Knattleikr** | Two teams, group Strength (Athletics) contest, best of three; stakes set before the match; natural 1 → 1d6 bludgeoning, no armor | Group contest: each player rolls **1d20 ≤ Strength**, best of three; natural 1 → 1d6 damage, no armor |
+| **Match results** | Winning captain +1 Orðstír; losing well (no fouls, no sulking) → no loss; deliberate fouling → −1 Orðstír + crowd’s contempt | **Identical** — drengskapr in defeat is still drengskapr |
+| **Hnefatafl** | Opposed Intelligence checks, best of three; stakes named before the first move; winner gains advantage on the first related Charisma or Wisdom check | Opposed **1d20 ≤ Intelligence**, best of three; winner gains **−2** on the first related check |
+| **Refusing tafl** | A jarl who refuses a fair challenge at tafl: −1 Orðstír | **Identical** — fear of thinking in public either system |
+
+---
+
+## Episode 30 — Ship-Culture (Codex §XXX)
+
+*The ship as self: named, lucked, maintained, mourned — the Norse entanglement of craft, pride, and soul in one hull.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **Naming** | Ceremony before witnesses (kenning-craft encouraged): named ship gains **Ship-luck** = captain’s Hamingja; unnamed ship: −1 on storm-saves | Unnamed ship: **+2 on storm-saves** (the unnamed penalty’s OSE voice); everything else **identical** |
+| **Status** | Owning a seaworthy ship: +2 Orðstír; commanding a named longship in battle: +1 Orðstír per voyage survived | **Identical** |
+| **Loss** | Cowardice or negligence: −2 Orðstír, −1 Hamingja; going down *with* a fought ship: highest good death, full inherited Orðstír | **Identical** — the sagas judge the captain ashore either system |
+| **Maintenance** | Each winter laid up: pay the keep (tar, rope, sail-cloth, silver); a starved ship: GM rolls secretly each spring, 1–2 on 1d6 something fails at the worst moment | Keep priced in **gp**; the spring audit **identical** |
+| **Ship-burial** | For the great dead: surrender the ship under the mound → the dead takes **double** inherited Orðstír, household +2 Hamingja for a year | **Identical** — the dead take their tools either system |
+
 
 ---
 

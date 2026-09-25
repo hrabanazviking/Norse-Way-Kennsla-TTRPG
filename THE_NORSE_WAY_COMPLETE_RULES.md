@@ -35,6 +35,11 @@
 23. [Draumr — Full Rule Expansion (The Norse Way, Episode 23)](#draumr-full-rule-expansion-the-norse-way-episode-23)
 24. [Spá & Útiseta — Full Rule Expansion (The Norse Way, Episode 24)](#spá-útiseta-full-rule-expansion-the-norse-way-episode-24)
 25. [Landvættir & the Dead — Full Rule Expansion (The Norse Way, Episode 25)](#landvættir-the-dead-full-rule-expansion-the-norse-way-episode-25)
+26. [Fosterage & Kinship — Full Rule Expansion (The Norse Way, Episode 26)](#fosterage-kinship-full-rule-expansion-the-norse-way-episode-26)
+27. [Marriage, Mundr & Divorce — Full Rule Expansion (The Norse Way, Episode 27)](#marriage-mundr-divorce-full-rule-expansion-the-norse-way-episode-27)
+28. [Óðal — Full Rule Expansion (The Norse Way, Episode 28)](#óðal-full-rule-expansion-the-norse-way-episode-28)
+29. [Knattleikr & Hnefatafl — Full Rule Expansion (The Norse Way, Episode 29)](#knattleikr-hnefatafl-full-rule-expansion-the-norse-way-episode-29)
+30. [Ship-Culture — Full Rule Expansion (The Norse Way, Episode 30)](#ship-culture-full-rule-expansion-the-norse-way-episode-30)
 
 ---
 
@@ -3509,3 +3514,667 @@ learned the way the culture learned it: by keeping the accounts.
 | Maintenance at the seasonal turn; +1 Hamingja per participating member (cap 10); neglect = dream-roll at every home rest; the landless honor at the common mound | Assistant-added development |
 | Moving the mound (carried stone keeps the luck-line; first season grants no bonus); shipboard observance (Rán + sea-vættir rite; sea noted *friendly*) | Assistant-added development |
 | OSE conversions (wight/ghoul entry; blót costs in gp) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 25) |
+
+---
+
+## Fosterage & Kinship — Full Rule Expansion (The Norse Way, Episode 26)
+
+**Video:** `videos/ep26-fosterage-kinship.mp4` · **Transcript:** `transcripts/ep26-fosterage-kinship.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXVI` — this file expands that section; additions the codex
+leaves open are labeled.
+
+### I. Grounding — Why It Is True
+
+In the Viking Age the kin-group was the legal person. It was the kin that paid weregild, pursued
+feuds, stood as oath-helpers — the individual was a finger, the kin was the hand. And alongside
+blood stood something the sagas treat as *stronger*, because it was chosen: **fosterage**. A child
+raised in another's hall belonged to both houses, and both houses owed the child. Njáll fostered
+Hǫskuldr Þráinsson, and the love between them — Njáll loving him as a son, Hǫskuldr cleaving to his
+foster-father — shaped the entire tragedy that followed [Njál]. Foster-brothers (*fóstbræðr*) swore
+oaths to each other that outweighed convenience, and the sagas judge those who betray them with a
+coldness reserved for the worst crimes. The mechanic models this directly: honor is pooled between
+the fostered, because the world sees them as one house; betraying foster-kin costs two níð-marks,
+because the culture counted betraying *chosen* kin worse than betraying blood. The
+shared-Hamingja bequest is the codex's own bridge from §XVI: luck-lines flow to foster-kin as
+freely as to blood, because the luck-line lived in the house, not just the veins.
+
+Kin-claims are the codex's engine for making the web visible in play: every feud, debt, wedding,
+and lawsuit that demands the PC's presence or silver is a claim, and answering it earns honor while
+ignoring it costs honor *and* luck. The oath-helper rule makes the numbers visible — your standing
+at the Thing is literally the count of your people willing to stand for you. The culture's premise,
+given teeth: your power is your people.
+
+### II. The Complete Playable Rule
+
+#### At a 5E Table
+
+**Declaring foster-ties.** Each PC may name one **foster-father/mother** or **foster-sibling** —
+an NPC or a fellow PC — at character creation or whenever the tie is forged in play (a fostered
+child taken in, a blood-brother oath sworn). The tie is *mechanical*, not color.
+
+**Pooled honor.** You may **spend Orðstír on behalf of** your foster-kin (their Persuasion checks,
+their Thing cases, any Charisma check where the name matters — §I) — and they may spend for you.
+**(Expansion)** The spend is declared aloud at the table before the roll, exactly as the §I spend,
+and counts against the spender's total and per-roll cap (+5). The foster-kin's own spend is
+unchanged by your presence — this is two wallets, either of which may pay, not a doubled wallet.
+
+**Shared luck.** **Hamingja bequest** (§XVI) flows to foster-kin as freely as to blood: on a good
+death, the PC's luck-line passes to their foster-kin heir as if to a child.
+
+**Betrayal.** Betraying foster-kin — abandoning them in battle, testifying against them falsely,
+refusing them shelter when they lawfully claim it — costs **2 níð-marks** (see §XVII), worse than
+betraying blood, because fosterage was *chosen*. **(Expansion)** "Abandoning in battle" means
+withdrawing from a fight while your foster-kin still fights and is in genuine danger; an orderly
+tactical retreat the foster-kin agreed to is not betrayal. "Refusing shelter" triggers when the
+foster-kin stands outside your door in lawful need (fleeing violence, outlawed by a hostile
+assembly) and you turn them away with no lawful excuse.
+
+**Kin-claims.** At the start of each adventure, the GM may present a **kin-claim** — a kinsman's
+feud, debt, wedding, or lawsuit demanding the PC's presence or silver. **(Expansion)** The GM
+should present at most one kin-claim per adventure, and should alternate whose kin calls — the
+claim is pressure, not paperwork. Answering it (showing up, paying, standing as oath-helper):
+**+1 Orðstír** (the kin-group's standing rises, and yours with it) and the kin-group *owes you* —
+a future favor, banked, redeemable as one significant act of help (shelter in a feud, silver at a
+Thing, warriors for a voyage). Ignoring it without lawful excuse: **−1 Orðstír** and
+**−1 Hamingja** — the kin-group's luck withdraws from the ungrateful, and the table hears about
+it. Lawful excuses: lesser outlawry abroad (§XXII), sickness that keeps you abed, a claim from your
+*own* foster-kin that pulls the other way (foster-tie wins ties — it was chosen).
+
+**Oath-helpers.** At the Thing (§VII), the number of oath-helpers you can field equals your
+**standing kin + foster-kin + sworn companions *willing to stand***. **(Expansion)** "Willing to
+stand" means named NPCs with a real relationship — the GM counts heads, not categories; a player
+who can name six willing oath-helpers fields six. Every ignored kin-claim shrinks that number (the
+GM reduces it by 1 per outstanding ignored claim, minimum 1 — your foster-kin stands last, because
+the bond was chosen). Oath-helpers of a kin-group in a *settled* feud count double for the
+wedding-season — the peace is fresh and the kin proud.
+
+#### At an OSE Table
+
+- Foster-ties: **identical** — one declared foster-father/mother or foster-sibling, NPC or fellow
+  PC, declared at creation or forged in play.
+- Pooled honor: spend Orðstír on foster-kin's checks — **1 Orðstír → +1 on a 2d6 reaction roll** or
+  **−2 on a roll-under CHA check** (1d20 ≤ Charisma made easier), declared aloud before the roll;
+  per-roll cap +5 (i.e. no more than 5 Orðstír on one roll). Hamingja bequest flows to foster-kin
+  as to blood — **identical**.
+- Betrayal: **2 níð-marks** — **identical**; the definitions of abandoning, false testimony, and
+  refused shelter carry over unchanged.
+- Kin-claims: answered → +1 Orðstír and a banked favor; ignored without lawful excuse → −1 Orðstír
+  and −1 Hamingja — **identical**; the GM should keep the one-claim-per-adventure rhythm.
+- Oath-helpers: standing kin + foster-kin + sworn companions willing to stand; every ignored
+  kin-claim shrinks the number by 1 (minimum 1) — **identical**.
+
+#### Worked Example
+
+*Illustrative — hypothetical rolls, not a real session.* Björn and the PC Halfdan are
+foster-brothers. At the Thing, Halfdan's uncle is accused of wrecking a neighbor's boat. Björn
+pleads the case: Charisma (Persuasion) DC 16. Björn's own Orðstír is low (4), but Halfdan says
+aloud, *"I spend 3 of my name"* — dropping to 6 — and Björn rolls with +3. The roll succeeds; the
+uncle is cleared, and the hall remembers whose name paid. Next session, the GM presents a
+kin-claim: Björn's sister's wedding demands Halfdan's presence. Halfdan goes — +1 Orðstír, and
+Björn's kin owes him a favor. Had he ignored it, he'd be down −1 Orðstír and −1 Hamingja, and one
+fewer oath-helper would stand for him next time. At an OSE table the same beats are identical:
+Halfdan's 3 Orðstír becomes +3 on the reaction roll, or −2 on Björn's roll-under CHA check
+(cap: 5 Orðstír on one roll either way).
+
+### III. Teaching Beat — What the Table Learns
+
+Players learn the kin-group as *infrastructure*: not background, but the actual machinery of
+power. The lone wolf is weaker by design — not as punishment, but as anthropology. Every answered
+kin-claim is a deposit in a bank that pays out in warriors, silver, and standing; every ignored
+one is a withdrawal the whole table watches. Players who have felt their oath-helper count shrink
+will never again treat an NPC's wedding as flavor text. People are the magic items here.
+
+### Provenance
+
+| Claim | Source |
+|---|---|
+| Fosterage as love made legal; Njáll fostering Hǫskuldr; foster-brothers' oaths outweighed convenience; sagas judge betrayers harshly | Historical/media-derived adaptation [Njál] |
+| The kin-group as legal person: paid weregild, pursued feuds, stood as oath-helpers; individual as finger, kin as hand | Verified Volmarr-authored supplement (codex §XXVI) |
+| Pooled Orðstír spendable on foster-kin's Persuasion checks and Thing cases (and theirs for you) | Verified Volmarr-authored supplement (codex §XXVI) |
+| Hamingja bequest flows to foster-kin as to blood | Verified Volmarr-authored supplement (codex §§XVI, XXVI) |
+| Betraying foster-kin (abandoning in battle, false testimony, refused shelter): 2 níð-marks — worse than betraying blood, because chosen | Verified Volmarr-authored supplement (codex §XXVI) |
+| Kin-claims: answered → +1 Orðstír + banked favor; ignored without lawful excuse → −1 Orðstír, −1 Hamingja | Verified Volmarr-authored supplement (codex §XXVI) |
+| Oath-helpers at the Thing = standing kin + foster-kin + sworn companions willing to stand; every ignored claim shrinks the number | Verified Volmarr-authored supplement (codex §XXVI) |
+| Foster-spend counts against the §I caps (+5 per roll, declared aloud, §I totals); two wallets not a doubled wallet | Assistant-added development |
+| Betrayal definitions (orderly retreat agreed ≠ betrayal; lawful-need shelter triggers) | Assistant-added development |
+| One claim per adventure; alternate whose kin calls; banked favor = one significant act of help; foster-tie wins lawful-excuse ties | Assistant-added development |
+| Oath-helper count shrinks 1 per outstanding ignored claim, minimum 1 (foster-kin stands last); settled-feud kin count double in wedding season | Assistant-added development |
+| OSE conversions (reaction-roll +1, roll-under CHA −2, 5-Orðstír cap) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 26) |
+
+---
+
+## Marriage, Mundr & Divorce — Full Rule Expansion (The Norse Way, Episode 27)
+
+**Video:** `videos/ep27-marriage-mundr-divorce.mp4` · **Transcript:** `transcripts/ep27-marriage-mundr-divorce.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXVII` — this file expands that section; additions the codex
+leaves open are labeled.
+
+### I. Grounding — Why It Is True
+
+Marriage in the Viking Age was *treaty*. Two kin-groups bound themselves by silver and public
+witness, and the marriage bed was only one of the rooms the contract built. The **mundr** — the
+bride-price paid by the groom's kin to the bride's guardian — sealed the alliance, and it was
+scaled to the bride's worth: a high-status bride commanded a chieftain's weregild and more, which
+is why the codex sets the negotiation against the weregild ladder (`weregild.json`) rather than a
+fixed price. The bride's **heimanfylgja** — her dowry — traveled with her as *her own security*:
+hers, not her husband's, and hers again if the marriage ended. That single fact is the engine of
+everything else here. A woman who keeps her dowry through divorce is a woman who can afford to
+leave, which is why divorce in this culture was real, legal, and accessible — not a failure of the
+system but a working part of it.
+
+The famous proof is Unnr Marðardóttir in *Njáls saga*, who divorces Hrútr Herjólfsson by declaring
+herself divorced before witnesses, on lawful grounds, and the Thing upholds it [Njál]. The
+grounds the law-codes knew — violence, impotence unremedied, the celebrated cross-dressing clauses
+— are later records; the codex flags this honestly with a ⚠️, because what is saga-solid is the
+*principle*: divorce was accessible, public, and silver-settled, with the mundr returned or
+forfeit by fault and the Thing available as judge. And because marriage was treaty, its making and
+unmaking were both statecraft: the wedding that ends a blood-feud is the saga's favorite ending,
+and the codex prices it — a settled feud sealed by marriage pays both houses +2 Orðstír instead
+of +1, which is the table's standing invitation to end wars with weddings.
+
+### II. The Complete Playable Rule
+
+#### At a 5E Table
+
+**Arranging a marriage.** A downtime endeavor or the campaign's center. The two kin-groups
+negotiate **mundr** against the weregild ladder (`weregild.json`) as the price-scale.
+Negotiation is a **Charisma (Persuasion)** contest between the families' spokesmen, **best of
+three**, with Orðstír spendable (§I) — because this is *reputation* negotiating. **(Expansion)**
+Each spokesman rolls once per round; the side that wins two rounds sets the mundr at its terms
+(their offered/demanded price on the ladder). If the bride's house wins outright (2–0), they may
+also demand one additional term — a feast, a fosterage, a Thing-alliance. If either side wins
+with a natural 20 in a round, the hall is impressed: +1 Orðstír for that spokesman's house.
+Marriage negotiations take place *before witnesses* — at a feast, a Thing, or a gathered hall —
+because a secret marriage is no treaty.
+
+**The alliance.** A sealed marriage creates a **treaty** between the kin-groups: mutual
+oath-helper rights (§XXVI), shared Hamingja bequest eligibility, and a standing **+1 Orðstír** for
+both houses **while the marriage stands and is fruitful**. **(Expansion)** "Fruitful" means the
+household thrives — children born, or the marriage's works prospering (a hall built, a voyage
+backed). If the marriage stands but is barren of all fruit for five years, the +1 lapses until
+fortune turns — and the kin on both sides start suggesting remedies. Marrying *up* (into a
+luck-bright line, §XVI): the lower house gains **+1 Hamingja** — men married into luck
+deliberately, and said so. **(Expansion)** If the spouses are PCs, the marriage must be played —
+the treaty benefits do not accrue during sessions where one spouse's player is absent and the
+marriage is unrepresented at the table.
+
+**Divorce.** Declared before witnesses, with lawful grounds: violence, impotence unremedied, the
+cross-dressing clauses (⚠️ later law-codes; principle saga-solid). **(Expansion)** Procedure: the
+declaring party speaks the divorce-words before at least two free adult witnesses who are not of
+either spouse's own household, naming the grounds. The marriage-treaty ends immediately for
+political purposes (oath-helper rights between the houses lapse; the standing +1 Orðstír of §XXVII
+ends), but the *silver* is settled separately: mundr is *returned or forfeit* depending on fault —
+GM judges, or the Thing may be asked (§VII). Fault with the husband (violence, neglect): mundr
+returned to the bride's kin in full. Fault with the wife under the law's grounds: mundr forfeit
+to the husband's kin. No fault found: split down the middle, and the hall is relieved. The
+divorced woman **keeps her heimanfylgja** in all cases — her economic independence is *the point*
+of the dowry system, and the mechanics honor it. **(Expansion)** A divorce that is spiteful or
+frivolous before witnesses (no lawful grounds, or grounds fabricated) costs the declaring party
+−1 Orðstír — the hall dislikes instruments used as weapons.
+
+**Marriage as feud-tool.** Marrying across a blood-debt (§XXI) is the classic settlement: a
+*Settled* feud sealed by marriage grants both houses **+2 Orðstír** instead of +1. **(Expansion)**
+The marriage must be genuine and public — a feast, witnesses, the mundr paid at scale. If the
+marriage fails (divorce) within a year and a day, the settlement's +2 is forfeit and the feud is
+*Unsettled* again, with the jilted house −1 Orðstír on top — the table will treat this wedding
+like the loaded crossbow it is.
+
+#### At an OSE Table
+
+- Arranging a marriage: mundr negotiated against the weregild ladder — the spokesmen make
+  **opposed 1d20 ≤ Charisma rolls, best of three**; Orðstír spendable 1-for-1 as **−2 on the
+  spokesman's own roll** (or **+2 on the rival's**), declared aloud before rolling, per the §I
+  caps. A 2–0 win lets the victor add one term (feast, fosterage, Thing-alliance); a natural 20 in
+  a round: +1 Orðstír for that house. Negotiations before witnesses — **identical in spirit**.
+- The alliance: treaty with mutual oath-helper rights (§XXVI), shared Hamingja bequest eligibility,
+  +1 Orðstír for both houses while the marriage stands and is fruitful ("fruitful" = children or
+  prospering works; five barren years lapses the +1); marrying up → +1 Hamingja for the lower house
+  — **identical**.
+- Divorce: declared before witnesses on lawful grounds; the treaty ends (oath-helper rights lapse,
+  the +1 ends); mundr returned or forfeit by fault (GM or Thing, §VII); the divorced woman keeps
+  her heimanfylgja always; spiteful/frivolous divorce → −1 Orðstír — **identical**.
+- Marriage across a blood-debt settles the feud: both houses +2 Orðstír instead of +1; if the
+  marriage fails within a year and a day, the +2 is forfeit, the feud is Unsettled again, and the
+  jilted house takes −1 Orðstír — **identical**.
+
+#### Worked Example
+
+*Illustrative — hypothetical rolls, not a real session.* The PCs broker a marriage between Jarl
+Skarpheðin's daughter and the chieftain's son of a rival house, across a blood-debt. Negotiation:
+the jarl's spokesman (CHA +3) vs. the rival's (CHA +2), best of three. Round one: 15 vs 12 — jarl
+wins; the rival spends 2 Orðstír on round two (+2) and wins it; round three, the jarl's spokesman
+rolls a natural 20 — the mundr is set at the jarl's price, a chieftain's weregild, and the jarl's
+house gains +1 Orðstír as the hall applauds. The wedding seals the feud: both houses +2 Orðstír
+instead of +1. Three years later the marriage stands and a son is born — the +1 alliance-honor
+holds. At an OSE table the same beats are opposed 1d20 ≤ Charisma rolls; the rival's 2 Orðstír
+spend becomes +2 on his own roll; the natural 20 is the same thunder either system.
+
+### III. Teaching Beat — What the Table Learns
+
+Romance becomes *statecraft*. Players feel the difference in their hands: negotiating a mundr is
+haggling over a treaty with a feast attached, and the dice make the abstraction concrete — every
+point of Orðstír spent is reputation visibly working. Divorce teaches the harder lesson: it is not
+a failure state but a legal instrument, and the dowry rule — she keeps her heimanfylgja, always —
+lands the culture's actual gender economics on a modern table without a lecture. The wedding that
+ends a war teaches the rest: in this world, love is politics with better food.
+
+### Provenance
+
+| Claim | Source |
+|---|---|
+| Marriage as treaty; mundr (bride-price) sealing the alliance; heimanfylgja (dowry) as the bride's own security | Historical/media-derived adaptation; Verified Volmarr-authored supplement (codex §XXVII) |
+| Mundr negotiated against the weregild ladder; Charisma (Persuasion) contest, best of three, Orðstír spendable — reputation negotiating | Verified Volmarr-authored supplement (codex §XXVII) |
+| Alliance: treaty with mutual oath-helper rights (§XXVI), shared Hamingja bequest eligibility, +1 Orðstír both houses while marriage stands and is fruitful; marrying up → +1 Hamingja for the lower house | Verified Volmarr-authored supplement (codex §§XVI, XXVI, XXVII) |
+| Unnr Marðardóttir divorces Hrútr before witnesses on lawful grounds; the Thing upholds it | Historical/media-derived adaptation [Njál] |
+| Divorce grounds (violence, impotence unremedied, cross-dressing clauses) from later law-codes — principle of accessible divorce saga-solid | Verified Volmarr-authored supplement (codex §XXVII, ⚠️ flag) |
+| Divorce: treaty ends; mundr returned or forfeit by fault (GM/Thing); divorced woman keeps her heimanfylgja | Verified Volmarr-authored supplement (codex §XXVII) |
+| Marriage across a blood-debt settles the feud: +2 Orðstír both houses instead of +1 | Verified Volmarr-authored supplement (codex §§XXI, XXVII) |
+| Negotiation procedure (2–0 victor adds a term; nat 20 in a round = +1 Orðstír; witnesses required) | Assistant-added development |
+| "Fruitful" defined (children or prospering works; five barren years lapses the +1); PC-spouse played-or-no-benefit rule | Assistant-added development |
+| Divorce procedure (two non-household witnesses, grounds named; treaty ends at once, silver settled after); fault table (his fault = returned; her fault under law = forfeit; none = split); spiteful divorce −1 Orðstír | Assistant-added development |
+| Feud-marriage fails within a year and a day: +2 forfeit, feud Unsettled again, jilted house −1 Orðstír | Assistant-added development |
+| OSE conversions (opposed 1d20 ≤ Charisma; ±2 Orðstír spend per §I caps) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 27) |
+
+---
+
+## Óðal — Full Rule Expansion (The Norse Way, Episode 28)
+
+**Video:** `videos/ep28-odal.mp4` · **Transcript:** `transcripts/ep28-odal.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXVIII` — this file expands that section; additions the codex
+leaves open are labeled.
+
+### I. Grounding — Why It Is True
+
+**Óðal** was not mere property — it was *inheritance made sacred*. The ancestral land held by a
+kin-group since time out of mind was inalienable except by the kin's consent, and reclaimable by
+kin even after sale: the odal right of redemption. When Haraldr Fairhair seized the óðal-lands of
+Norway's chieftains for the crown, the outrage drove whole families to Iceland — the settlement of
+a new country began as a protest against stolen inheritance [Heim: Haralds saga hárfagra]. To hold
+óðal was to *be* somebody; to lose it was to become nobody's son. That is not rhetoric — it is the
+game's whole premise in one sentence, and the codex builds the highest-stakes campaign engine on
+it: the farm is a character of its own, with a name, acres, livestock, and an Óðal-rating 1–5
+measuring prosperity and ancestral depth.
+
+The numbers follow the culture's own valuation. Stewardship earns honor every year because a
+well-worked farm *is* a well-kept name; the household's luck rises with it because the luck-line
+lived in the soil, not in a man's pockets. Defense of the óðal pays the largest standard honor
+awards in the codex — +2 Orðstír, +1 Hamingja — because the culture counted nothing higher than
+men who fought for the fathers' acres, and counted nothing lower than those who surrendered them
+without a fight (−2 Orðstír, −1 Hamingja, oath-helpers halved). The redemption right is the
+codex's crown: +3 Orðstír for winning back what the fathers held, the single largest honorable
+gain outside a sumbel-vow kept. And for the landless — Iceland, the Danelaw, the east — three
+winters of clearing and holding *create* óðal, which is why the mechanic reads colonization as a
+moral project: the settlers themselves saw it that way.
+
+### II. The Complete Playable Rule
+
+#### At a 5E Table
+
+**Óðal holdings.** For land-owning PCs or their kin: record the farm as a **character of its own**
+— name, acres, livestock, and an **Óðal-rating 1–5** (prosperity + ancestral depth).
+**(Expansion)** Rating guide: 1 — a croft, thin soil, a season from hunger; 2 — a sound farm, one
+good name behind it; 3 — a broad farm with deep roots, the district knows it; 4 — a great farm,
+generations deep, its name a landmark; 5 — a legendary holding, saga-ground. Each year held and
+worked: **+1 Orðstír** for the head of the household (stewardship is honor), and the household
+gains **+1 Hamingja** (§XVI). **(Expansion)** "Held and worked" means the farm is actually
+farmed — by the household, tenants, or trusted stewards; an abandoned farm held only on paper
+earns nothing and loses 1 Óðal-rating per neglected year until worked again.
+
+**Threats to the óðal.** The campaign engine: a jarl's tax collectors, a rival kin's claim at the
+Thing, a king's "redistribution," foreclosure by debt. **(Expansion)** The GM should introduce a
+genuine óðal-threat no more than once per story arc — scarcity keeps the stakes high — and should
+telegraph it at least one session ahead (the collector's horn heard down the valley; the rival
+kin's spokesman seen talking to the lawspeaker) so defense can be *prepared*, which is the whole
+point. Defending the óðal — by law (§VII), by payment, or by force — is the highest-stakes play
+available: success grants **+2 Orðstír** and **+1 Hamingja** (the ancestors approve); failure or
+surrender without a fight: **−2 Orðstír, −1 Hamingja**, and the kin-group's oath-helpers (§XXVI)
+shrink by half — who follows a man who would not fight for his father's acres?
+**(Expansion)** "Without a fight" means no defense offered at all — not even a Thing-plea. A
+defense attempted and lost *honorably* (law pleaded, silver offered, steel raised) halves the
+penalty: −1 Orðstír, and the oath-helpers shrink by only a quarter. The culture punished
+cowardice, not defeat.
+
+**The redemption right.** If óðal is sold under duress, any kinsman may **redeem** it within the
+customary term by repaying the price + a weregild-scale fee (`weregild.json`). **(Expansion)**
+The customary term is one year and a day from the sale — announced at the sale's witnesses so no
+one can claim ignorance. The weregild-scale fee is set by the seller's standing on the ladder,
+not the buyer's: the kin pays for what was taken, at the taken one's price. A PC who redeems
+lost family land: **+3 Orðstír** — the single largest honorable gain outside a sumbel-vow kept.
+**(Expansion)** The +3 is awarded once per redeemed holding, not per kinsman — the kin that
+redeems together shares the glory, but the ledger records it once. A redemption funded entirely by
+a PC's own silver (no kin help) also grants +1 Hamingja — the ancestors mark the single-handed
+sacrifice.
+
+**New land.** For the landless — Iceland, the Danelaw, the east: clearing and holding new acres
+for three winters *creates* óðal. The first generation earns it the hard way: each winter
+survived on the new land, **+1 Orðstír**. **(Expansion)** "Survived" means the household endures
+the winter on the new land with the farm worked and the kin fed — a winter fled to a kinsman's
+hall does not count. After three counted winters, the farm gains Óðal-rating 1 and is óðal in
+full, with the redemption right attaching from that day. The GM should treat the three winters
+as the campaign's spine — each winter a chapter, each spring a reckoning.
+
+#### At an OSE Table
+
+- Óðal holdings: the farm as its own character — name, acres, livestock, Óðal-rating 1–5 (same
+  rating guide); each year held and worked → +1 Orðstír for the head of household, +1 Hamingja for
+  the household; a paper-held abandoned farm earns nothing and loses 1 rating per neglected year —
+  **identical**.
+- Threats: jarl's collectors, rival kin's Thing-claim, king's redistribution, debt foreclosure —
+  telegraphed a session ahead, at most once per story arc. Defend by law, payment, or force:
+  success → +2 Orðstír, +1 Hamingja; surrender without a fight → −2 Orðstír, −1 Hamingja,
+  oath-helpers halved; an honorable defense lost → −1 Orðstír, oath-helpers quartered —
+  **identical**.
+- The redemption right: one year and a day from the sale; repay the price + a weregild-scale fee
+  (**gp** per the silver economy, priced by the *seller's* standing); redeeming lost family land →
+  **+3 Orðstír** (once per holding; funded single-handed → +1 Hamingja too) — **identical**.
+- New land: three winters of clearing and holding creates óðal (Óðal-rating 1, redemption right
+  attaching); each winter survived → +1 Orðstír — **identical**.
+
+#### Worked Example
+
+*Illustrative — hypothetical rolls, not a real session.* The PCs' kin holds Hrafnagil, Óðal-rating
+3. A jarl's collectors arrive demanding a ruinous tax — a "redistribution" in all but name. The
+party pleads at the Thing (§VII): the lawspeaker hears the rival kin's claim, and the PCs produce
+the farm's boundary-oath witnesses. Charisma (Persuasion) contest, best of three — won 2–1. The
+farm holds: the head of household gains +2 Orðstír and +1 Hamingja, and the hall drinks to
+Hrafnagil's name. Had they surrendered without a plea, it would have been −2 Orðstír, −1
+Hamingja, and half their oath-helpers gone. Had they pleaded and lost, the honorable loss halves
+it: −1 Orðstír, a quarter of the oath-helpers. At an OSE table the same beats are opposed 1d20 ≤
+Charisma rolls and identical ledgers — the farm does not care which dice you roll.
+
+### III. Teaching Beat — What the Table Learns
+
+Land stops being "real estate" and becomes *identity with a deed*. The farm-as-character is the
+masterstroke: players who have named a farm, fed it through winters, and pled for it at the Thing
+will defend it like a party member — because mechanically, it is one. And the history lands
+without a lecture: when a king's men come for the acres, players feel in their gut the exact
+outrage that filled the ships for Iceland. A tax dispute becomes a saga. That is the whole Norse
+Way in one holding.
+
+### Provenance
+
+| Claim | Source |
+|---|---|
+| Óðal as inheritance made sacred; inalienable except by kin's consent; reclaimable after sale (odal right of redemption) | Historical/media-derived adaptation; Verified Volmarr-authored supplement (codex §XXVIII) |
+| Haraldr Fairhair seizing óðal-lands; the outrage driving families to Iceland — settlement as protest against stolen inheritance | Historical/media-derived adaptation [Heim: Haralds saga hárfagra] |
+| Óðal-rating 1–5; farm as its own character (name, acres, livestock); each year held and worked → +1 Orðstír (head of household), +1 Hamingja (household) | Verified Volmarr-authored supplement (codex §§XVI, XXVIII) |
+| Threats (jarl's collectors, rival Thing-claim, king's redistribution, debt foreclosure); defense by law/payment/force: success → +2 Orðstír, +1 Hamingja; surrender without a fight → −2 Orðstír, −1 Hamingja, oath-helpers halved | Verified Volmarr-authored supplement (codex §§VII, XXVI, XXVIII) |
+| Redemption right: repay price + weregild-scale fee within customary term; redeeming lost family land → +3 Orðstír (largest honorable gain outside a kept sumbel-vow) | Verified Volmarr-authored supplement (codex §XXVIII) |
+| New land: three winters of clearing and holding creates óðal; each winter survived → +1 Orðstír | Verified Volmarr-authored supplement (codex §XXVIII) |
+| Rating guide (croft → saga-ground); paper-held farms earn nothing, lose 1 rating/year neglected | Assistant-added development |
+| One genuine óðal-threat per story arc, telegraphed a session ahead; honorable loss halves the penalty (quarter, not half, of oath-helpers) | Assistant-added development |
+| Customary term = one year and a day; fee priced by the *seller's* standing; +3 once per holding; single-handed redemption also +1 Hamingja | Assistant-added development |
+| "Survived" winters defined (worked farm, fed kin; a fled winter doesn't count); three winters as campaign spine | Assistant-added development |
+| OSE conversions (weregild fee in gp) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 28) |
+
+---
+
+## Knattleikr & Hnefatafl — Full Rule Expansion (The Norse Way, Episode 29)
+
+**Video:** `videos/ep29-knattleikr-hnefatafl.mp4` · **Transcript:** `transcripts/ep29-knattleikr-hnefatafl.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXIX` — this file expands that section; additions the codex
+leaves open are labeled.
+
+### I. Grounding — Why It Is True
+
+The Norse played *violently*, and the violence was the point. **Knattleikr** — the ball-game,
+played with bat and hard ball between teams — was rough enough that Egill Skalla-Grímsson killed
+his opponent Grímr with a bat-stroke in a boyhood match, and the saga treats it as *noteworthy
+but not monstrous* [Eg]. Grettir's saga stages its own brutal ball-game [Grett]. These are not
+anecdotes about hooliganism; they are evidence of pedagogy. The ball-game taught strength,
+teamwork, and controlled ferocity — and it taught them the only way the culture trusted: by
+doing, in public, with consequences.
+
+**Hnefatafl** — "the king's table" — was the strategy board-game of the halls, the game of kings
+and jarls (widely attested; exact period rules are reconstructed — the codex flags this ⚠️, and
+so do we: what follows is tradition-shaped). The king (one piece) must escape the board's edge
+through attackers; attackers win by surrounding him. Where knattleikr trained the body, tafl
+trained the war-leader's eye — and the codex's great mechanical insight is that the *stakes* are
+the game: before the first move, each player names what the match is *about* (a disputed debt, a
+marriage negotiation's opening, who commands the next raid), and the winner carries advantage into
+the real decision. The board speaks, and the hall watches. A jarl who refuses a fair challenge at
+tafl loses honor — a leader who fears the king's-table fears thinking in public. The culture's
+pedagogy, given dice: courage was not lectured, it was *practiced* — with a bat, on a field, in
+front of everyone.
+
+### II. The Complete Playable Rule
+
+#### At a 5E Table
+
+**Knattleikr.** Played in downtime or at festivals (§XII). Two teams, one match = a **group
+Strength (Athletics) contest**, best of three rounds, with the GM narrating the bone-jarring
+play. **(Expansion)** Each round, every player on a team rolls Strength (Athletics); the team
+with the higher total wins the round. Teams should be 3–7 a side — fewer is a brawl, more is a
+battle, and the GM should scale the narration accordingly. Stakes are set before the match
+(silver, a weapon, a vow, a feast owed) — and the stakes are *binding*, witnessed by the crowd.
+
+*Injuries happen:* any natural 1 in the match = the player takes **1d6 bludgeoning** (no armor —
+it's a game) and the table laughs, because the culture did. **(Expansion)** A player reduced to
+0 HP by match injuries is carried off the field, not dying — the game stops being funny at
+actual death's door, and the GM should say so plainly. Healing after the match is normal rest;
+there is no shame in the stretcher, only in the sulk.
+
+Winning the match: **+1 Orðstír** for the team's captain; losing well (no fouls, no sulking): no
+loss — *drengskapr* in defeat is still drengskapr. Deliberate fouling (striking a downed player):
+**−1 Orðstír** and the crowd's contempt. **(Expansion)** The captain is named before the match —
+usually the team's best player or its social leader — and cannot be changed mid-match. A captain
+who *orders* a foul shares the −1 with the fouler: the crowd saw who gave the nod.
+
+**Hnefatafl.** The thinking game — rules summary in `engine/data/homebrew/hnefatafl.json`. In
+play: a match between two characters is resolved as **opposed Intelligence checks**, best of
+three — but the *stakes* are the game: before the first move, each names what the match is
+*about* (a disputed debt, a marriage negotiation's opening, who commands the next raid). Winner
+gains **advantage on the first related Charisma or Wisdom check** when the matter is decided —
+the board has spoken, and the hall watched. **(Expansion)** The advantage must be used in the
+same session (or the next, if the matter is decided later) — the hall's memory is long, but not
+infinite. The advantage applies to *one* check by the winner (or their named champion); it cannot
+be transferred to a hireling. A jarl who refuses a fair challenge at tafl: **−1 Orðstír** — a
+leader who fears the king's-table fears thinking in public. **(Expansion)** "Fair challenge"
+means the challenger is of appropriate standing (not a child, not a thrall mocking his betters)
+and the stakes are named and reasonable; a jarl may decline an insulting challenge without cost —
+but must do so *gracefully*, before witnesses, or the −1 stands.
+
+**Teaching through play.** The GM should run one real knattleikr match and one tafl match *in
+full* early in the campaign. **(Expansion)** "In full" means: full teams, real stakes, the
+bone-jarring narration, the injuries — not a single abstracted roll. After that, the table
+understands: these people *trained for war as sport*, and their sports were honest about it.
+
+#### At an OSE Table
+
+- Knattleikr: two teams, one match = **group Strength contest, best of three rounds** — each
+  player rolls **1d20 ≤ Strength** (their own, unmodified); the team with more successes wins the
+  round; ties go to the team with the lower total of rolled dice. Stakes set before the match,
+  binding, witnessed. Natural 1 on any player's roll → that player takes **1d6 damage**, no armor;
+  carried off at 0, not dying. Winning captain → +1 Orðstír; losing well (no fouls, no sulking) →
+  no loss; deliberate fouling → −1 Orðstír and the crowd's contempt; a captain who orders a foul
+  shares it — **identical**.
+- Hnefatafl: opposed **Intelligence checks** (**1d20 ≤ Intelligence**), best of three; stakes named
+  before the first move; the winner gains **−2 on the first related check** when the matter is
+  decided (advantage's OSE voice — applied to one check by the winner or their named champion, in
+  the same session or the next); a jarl who refuses a fair challenge at tafl → −1 Orðstír
+  ("fair" = appropriate standing, named reasonable stakes, declined gracefully before witnesses or
+  the −1 stands) — **identical**.
+- Teaching through play: one real knattleikr match and one tafl match *in full* early in the
+  campaign — **identical**.
+
+#### Worked Example
+
+*Illustrative — hypothetical rolls, not a real session.* At the autumn festival, the PCs field a
+knattleikr team against the neighboring farmstead, stakes: a feast owed by the losers. Round one:
+the PCs' Athletics totals 58 vs. 51 — round won. Round two: a PC rolls a natural 1 — 1d6 = 4
+bludgeoning, no armor; the table roars; the player bows. Round three: the neighbors take it, 60
+to 55. The match is tied 1–1... but it is best of three, so a fourth round decides it: the PCs
+win, 63 to 59. Their captain gains +1 Orðstír. The losers bowed, fouled no one, sulked not at
+all — no loss; the feast will be splendid. Later that night, the jarl's rival challenges the
+jarl at tafl, stakes named: who commands the next raid. Opposed Intelligence, best of three —
+the rival wins 2–1 and carries advantage into the war-council the next morning. At an OSE table:
+round wins by counting successes on 1d20 ≤ Strength rolls; the natural 1 is the same 1d6; the
+tafl advantage becomes −2 on the war-council check. The crowd's contempt needs no conversion.
+
+### III. Teaching Beat — What the Table Learns
+
+The games reveal the culture's pedagogy: courage was not lectured, it was *practiced* — with a
+bat, on a field, in front of everyone. Players who have bled (a little) for a ball-game, and
+watched a war-council turn on a board-game, will never again ask why Vikings seemed to enjoy
+fighting — and will never again treat "games" in a campaign as filler. The table learns that
+play *is* training, that public performance *is* the curriculum, and that a culture can teach its
+deepest values without a single lecture. They learn it the way the Norse learned it: by playing.
+
+### Provenance
+
+| Claim | Source |
+|---|---|
+| Knattleikr played with bat and hard ball between teams; Egill killed Grímr with a bat-stroke as a boy — noteworthy but not monstrous | Historical/media-derived adaptation [Eg] |
+| Grettir's saga stages its own brutal ball-game | Historical/media-derived adaptation [Grett] |
+| Knattleikr: group Strength (Athletics) contest, best of three, GM narrates; stakes set before the match; natural 1 = 1d6 bludgeoning, no armor, the table laughs; winning captain +1 Orðstír; losing well = no loss; deliberate fouling = −1 Orðstír + crowd's contempt | Verified Volmarr-authored supplement (codex §XXIX) |
+| Hnefatafl: the king's table, game of kings and jarls; exact period rules reconstructed (flagged) | Verified Volmarr-authored supplement (codex §XXIX, ⚠️ flag); `engine/data/homebrew/hnefatafl.json` |
+| Hnefatafl in play: opposed Intelligence checks, best of three; stakes named before the first move; winner gains advantage on the first related Charisma or Wisdom check; jarl refusing a fair challenge: −1 Orðstír | Verified Volmarr-authored supplement (codex §XXIX) |
+| Both games as training (strength/teamwork/controlled ferocity; the war-leader's eye); GM should run one real match of each early | Verified Volmarr-authored supplement (codex §XXIX) |
+| Round procedure (every player rolls, higher team total wins; 3–7 a side); stakes binding and witnessed; 0 HP = carried off, not dying | Assistant-added development |
+| Captain named before the match, unchangeable; a captain who orders a foul shares the −1 | Assistant-added development |
+| Tafl advantage: same-or-next session, one check, winner or named champion, not transferable to hirelings; "fair challenge" defined (standing, stakes, graceful decline) | Assistant-added development |
+| OSE conversions (1d20 ≤ Strength/Intelligence, success-count rounds, −2 for advantage) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 29) |
+
+---
+
+## Ship-Culture — Full Rule Expansion (The Norse Way, Episode 30)
+
+**Video:** `videos/ep30-ship-culture.mp4` · **Transcript:** `transcripts/ep30-ship-culture.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXX` — this file expands that section; additions the codex
+leaves open are labeled.
+
+### I. Grounding — Why It Is True
+
+A chieftain's ship was his *other body*. Ships had names — Óláfr Tryggvason's **Ormrinn langi**,
+the Long Serpent, the great dragon-ship of the age [Heim] — and a named ship carried its owner's
+luck and fame the way a sword carries its maker's. Shipwrights were master-craftsmen of the
+highest honor; a well-found ship was wealth, weapon, and status in one hull — the single costliest
+thing most households would ever own, worth more than a farm. And at the end, the ship could be
+the *coffin*: the great ship-burials — chieftains laid in their ships under the mound (Oseberg,
+Gokstad; ⚠️ archaeology, not saga-text, flagged honestly in the codex) — sent the dead out on
+their last voyage as they had lived: *under sail*.
+
+The mechanic is identity made playable. Naming the ship is a ceremony, not an errand: the name
+must *mean* something, kenning-craft encouraged (§XX), because a name is a claim about who you
+are. The named ship shares the captain's Hamingja — the vessel enters the luck-line — and the
+unnamed ship is penalized on storm-saves, because the sea does not respect the anonymous. The
+honor economy follows the same logic: +2 Orðstír for owning a seaworthy ship (you are a man who
+can *go*), +1 per battle-voyage survived in command, and the terrible −2/−1 for losing a ship
+through cowardice — the sagas judge the captain who outlives his ship *ashore*. But going down
+*with* a fought ship is a good death of the highest order: full inherited Orðstír, and the crew's
+loyalty becomes saga-verse. The maintenance rule is the unglamorous teaching the codex loves:
+tar, rope, sail-cloth, silver, every winter — and the spring d6 that audits neglect. The
+ship-burial is the culture's most extravagant funeral with its logic laid bare: *the dead take
+their tools, and the living inherit the glory of the giving* — double inherited Orðstír for the
+dead, +2 Hamingja for the household for a year.
+
+### II. The Complete Playable Rule
+
+#### At a 5E Table
+
+**Naming a ship.** A ceremony, not an errand: when a PC first commands a vessel, they name it
+before witnesses — a **Charisma (Performance)** or plain declaration, but the name must *mean*
+something (kenning-craft encouraged, §XX). **(Expansion)** The witnesses should be the crew —
+the ship is named to the people who will sail her. A name the crew mocks costs the captain −1
+Orðstír on the spot (the hall heard it); a name the crew *cheers* grants +1 Orðstír — the naming
+is the first test of command. A named ship gains a **Ship-luck** rating equal to its captain's
+Hamingja (§XVI) — the vessel shares the luck-line. An unnamed ship: −1 on all storm-saves
+(§XIII) — the sea does not respect the anonymous. **(Expansion)** If command passes to a new
+captain, the Ship-luck re-rates to the new captain's Hamingja at the next landfall — the ship
+takes the measure of her new master. A ship renamed (a rare and ominous act) loses all Ship-luck
+until a full year has passed — the sea distrusts second names.
+
+**Ship as status.** Owning a seaworthy ship: **+2 Orðstír** (you are a man who can *go*);
+commanding a named longship in battle: **+1 Orðstír** per voyage survived. **(Expansion)** "In
+battle" means the ship fought — raiding, sea-battle, or a storm fought rather than fled counts;
+a milk-run coastal hop does not. Losing a ship through cowardice or negligence (abandoning her
+in a storm you could have fought): **−2 Orðstír, −1 Hamingja** — the sagas judge the captain who
+outlives his ship *ashore*. **(Expansion)** Negligence is judged by the §XXX maintenance rule:
+a captain who starved the ship all winter and loses her in spring has no defense. Going down
+*with* a fought ship: a good death (§XIV) of the highest order — full inherited Orðstír, and
+the crew's loyalty becomes saga-verse. **(Expansion)** The surviving crew of such a captain gain
++1 Orðstír each (they sailed with a man who would not leave his ship) and will follow the dead
+captain's heir at the first asking.
+
+**Ship-maintenance.** Each winter laid up, the ship needs work — tar, rope, sail-cloth, silver.
+**(Expansion)** Cost: set by the GM against the weregild ladder (`weregild.json`) — a small
+boat's keep is a few ounces of silver; a great longship's is a sum a karl feels. A captain who
+pays it: the ship holds her luck. A captain who starves her: the GM rolls secretly each spring —
+on 1–2 on 1d6, something fails at the worst moment (a stay parts in a storm, a strake opens).
+**(Expansion)** The failure should be *dramatic and survivable-with-cost*, never an instant
+sinking: a parted stay in a gale means a storm-save at disadvantage and a jury-rigged mast for
+the voyage; an opened strake means bailing watches and a forced beaching. The sea audits neglect
+— it does not execute for it. A ship that has been starved two winters running fails on 1–3.
+
+**Ship-burial.** For the great dead: laying a chieftain in their ship under the mound costs the
+ship itself — a fortune surrendered — but grants the dead **double** inherited Orðstír (§I) and
+the household **+2 Hamingja** for a year. **(Expansion)** "The great dead" is judged by the
+hall, not the ledger: the deceased must have been saga-famous (Orðstír 15+, §I) or have died a
+death the skalds will sing — a ship-burial for a nobody is vanity, and the hall knows it (−1
+Orðstír for the household that wastes a ship on an unsung corpse). The mound itself becomes a
+place of power: +1 Hamingja for any descendant who keeps the mound (§XXV) while the year lasts.
+
+#### At an OSE Table
+
+- Naming a ship: a ceremony before the crew — the name must *mean* something (kenning-craft
+  encouraged); a mocked name → −1 Orðstír, a cheered name → +1 Orðstír; a named ship gains
+  **Ship-luck** equal to the captain's Hamingja (re-rates to a new captain at the next landfall;
+  a renamed ship keeps no luck for a full year); an unnamed ship: **+2 on storm-saves** (the
+  unnamed penalty's OSE voice) — **identical**.
+- Ship as status: owning a seaworthy ship → +2 Orðstír; commanding a named longship in battle
+  (raiding, sea-battle, a storm fought not fled) → +1 Orðstír per voyage survived; losing a ship
+  through cowardice or negligence → −2 Orðstír, −1 Hamingja; going down *with* a fought ship → a
+  good death of the highest order, full inherited Orðstír, surviving crew +1 Orðstír each and
+  loyal to the heir — **identical**.
+- Ship-maintenance: each winter laid up, pay the keep (tar, rope, sail-cloth, **gp** against the
+  weregild ladder); a starved ship: GM rolls secretly each spring — 1–2 on 1d6, something fails
+  at the worst moment (dramatic and survivable-with-cost: disadvantage on the storm-save,
+  jury-rigged mast, bailing watches, forced beaching); two starved winters → fails on 1–3 —
+  **identical**.
+- Ship-burial: for the great dead (saga-famous, 15+ Orðstír, or a skald-worthy death — a wasted
+  ship on an unsung corpse → −1 Orðstír for the household): surrendering the ship under the mound
+  grants the dead **double** inherited Orðstír and the household +2 Hamingja for a year; the
+  mound becomes a place of power (+1 Hamingja for descendants who keep it, §XXV, while the year
+  lasts) — **identical**.
+
+#### Worked Example
+
+*Illustrative — hypothetical rolls, not a real session.* The PC Astrid takes command of a
+newly-built snekkja. Before the crew, she names her *Vágr* — "the Bay" — for the sheltered water
+where she was born; the crew cheers: +1 Orðstír on the spot. *Vágr*'s Ship-luck rates at Astrid's
+Hamingja (7). That winter Astrid pays the keep — tar, rope, a new sail-cloth — against the
+weregild ladder. In spring, a gale: because *Vágr* is named and kept, no penalty on the
+storm-save. Years later Astrid goes down with *Vágr* in a fought sea-battle: a good death of the
+highest order — her full Orðstír passes to her heir, her crew gains +1 each and swears to the
+heir unasked. Had Astrid abandoned *Vágr* in a storm she could have fought, it would have been
+−2 Orðstír, −1 Hamingja, and the sagas would have judged her ashore. At an OSE table the same
+beats are identical — the naming, the keep in gp, the storm-save at +2 if she had left her
+unnamed, the good death at full inheritance. The sea does not care which dice you roll.
+
+### III. Teaching Beat — What the Table Learns
+
+Players learn that technology here is *identity*: the ship is not transport, it is the self
+extended over water. A captain's relationship with their vessel — named before witnesses, kept
+every winter, mourned under the mound — teaches the Norse entanglement of craft, pride, and soul
+better than any lecture on "Viking ships." The maintenance rule does quiet work: the player who
+pays the winter keep without being asked has internalized stewardship, and the spring d6 teaches
+that neglect is a choice with a ledger. And the ship-burial teaches the culture's deepest
+economics: the dead take their tools, and the living inherit the glory of the giving. Nobody who
+has surrendered a fortune under a mound will ever call a funeral "flavor."
+
+### Provenance
+
+| Claim | Source |
+|---|---|
+| A chieftain's ship as his other body; ships named — Óláfr Tryggvason's Ormrinn langi, the Long Serpent | Historical/media-derived adaptation [Heim] |
+| Named ship carries owner's luck and fame as a sword carries its maker's; shipwrights master-craftsmen of highest honor; a well-found ship wealth, weapon, status in one hull | Verified Volmarr-authored supplement (codex §XXX) |
+| Ship-burials — chieftains laid in ships under the mound (Oseberg/Gokstad: archaeology, not saga-text, flagged) | Verified Volmarr-authored supplement (codex §XXX, ⚠️ flag) |
+| Naming: ceremony before witnesses; name must mean something (kenning-craft, §XX); named ship gains Ship-luck = captain's Hamingja; unnamed ship −1 on storm-saves | Verified Volmarr-authored supplement (codex §§XIII, XVI, XX, XXX) |
+| Ship as status: owning a seaworthy ship +2 Orðstír; commanding a named longship in battle +1 Orðstír per voyage survived; losing through cowardice/negligence −2 Orðstír, −1 Hamingja; going down with a fought ship = highest good death, full inherited Orðstír, crew's loyalty saga-verse | Verified Volmarr-authored supplement (codex §§I, XIV, XXX) |
+| Maintenance: each winter laid up needs tar, rope, sail-cloth, silver; starved ship: GM rolls secretly each spring, 1–2 on 1d6 something fails at the worst moment | Verified Volmarr-authored supplement (codex §XXX) |
+| Ship-burial: costs the ship; dead takes double inherited Orðstír, household +2 Hamingja for a year | Verified Volmarr-authored supplement (codex §§I, XXX) |
+| Naming witnesses = the crew; mocked name −1 / cheered name +1 Orðstír; Ship-luck re-rates at next landfall; renaming loses luck for a year | Assistant-added development |
+| "In battle" defined (raiding, sea-battle, storm fought not fled); negligence judged by the maintenance rule; surviving crew +1 Orðstír and loyal to the heir | Assistant-added development |
+| Maintenance cost scaled to the weregild ladder; failures dramatic and survivable-with-cost; two starved winters → fails on 1–3 | Assistant-added development |
+| Ship-burial reserved for the great dead (15+ Orðstír or skald-worthy death; wasted ship → −1 household); mound as a place of power (+1 Hamingja for mound-keeping descendants, §XXV) | Assistant-added development |
+| OSE conversions (storm-save penalty as +2; keep costs in gp) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 30) |
