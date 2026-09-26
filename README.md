@@ -70,12 +70,21 @@ Each transcript file carries: title, full narration transcript, the rule summary
 | 29 | Knattleikr & Hnefatafl — Games That Teach War | `videos/ep29-knattleikr-hnefatafl.mp4` | `transcripts/ep29-knattleikr-hnefatafl.md` |
 | 30 | Ship-Culture — The Ship as Self | `videos/ep30-ship-culture.mp4` | `transcripts/ep30-ship-culture.md` |
 
-## Phase 2 — Remaining Systems (planned, batches of 5)
+## Batch G (Episodes 31–32) — produced 2026-09-26
+
+| # | Episode | Video | Transcript |
+|---|---------|-------|------------|
+| 31 | Missionary Pressure — The White Christ at the Door | `videos/ep31-missionary-pressure.mp4` | `transcripts/ep31-missionary-pressure.md` |
+| 32 | The Viking Conduct Ledger — The GM's Reward & Punishment Table | `videos/ep32-conduct-ledger.mp4` | `transcripts/ep32-conduct-ledger.md` |
+
+## Phase 2 — Complete (batches D through G, 2026-09-25 → 2026-09-26)
+
+All planned batches are done; nothing remains in Phase 2.
 
 - **Batch D (16–20):** Seiðr, Galdr, Trolldom · Death & the Afterlife · The Ergi Taboo · Skaldcraft · Feud & Revenge — **done 2026-09-25** ✅
 - **Batch E (21–25):** Seafaring · Outlawry · Draumr · Spá & Útiseta · Landvættir & the Dead — **done 2026-09-25** ✅
 - **Batch F (26–30):** Fosterage & Kinship · Marriage, Mundr & Divorce · Óðal · Knattleikr & Hnefatafl · Ship-Culture — **done 2026-09-25** ✅
-- **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (two-part GM-screen special)
+- **Batch G (31–32):** Missionary Pressure · The Viking Conduct Ledger (GM-screen special) — **done 2026-09-26** ✅
 
 ## Written Rule Expansions
 
@@ -92,10 +101,10 @@ each in Volmarr's three-beat law:
 
 Provenance is labeled per section: Volmarr's canon is law; assistant additions
 are marked. Mechanical source of truth: `HOMEBREW_CODEX.md`; dual-system
-reference: `SYSTEM_VARIANTS.md`. Episodes 31+ get their rule files as their
-video batch publishes.
+reference: `SYSTEM_VARIANTS.md`. Episodes 31–32 have their rule files
+(`rules/ep31-missionary-pressure.md`, `rules/ep32-conduct-ledger.md`).
 
-**The master book:** `THE_NORSE_WAY_COMPLETE_RULES.md` gathers all 30 written
+**The master book:** `THE_NORSE_WAY_COMPLETE_RULES.md` gathers all 32 written
 expansions into a single document — one H1, a linked table of contents, every
 chapter demoted beneath it. The whole ruleset, cover to cover.
 
@@ -110,7 +119,7 @@ norse-way-videos/
 ├── audio/               ← Rumi TTS narration MP3s (production source)
 ├── clips/               ← raw ~10s generated video clips (production source)
 ├── assets/              ← Unnr reference portrait (visual-continuity anchor)
-├── rules/               ← written rule expansions, one .md per episode (ep01–ep30)
+├── rules/               ← written rule expansions, one .md per episode (ep01–ep32)
 │                          three-beat form: Grounding → Complete Playable Rule
 │                          (5E + OSE) → Teaching Beat, with provenance labels
 ├── THE_NORSE_WAY_COMPLETE_RULES.md ← the master book: all 30 expansions in

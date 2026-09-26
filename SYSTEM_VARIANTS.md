@@ -434,5 +434,35 @@ walk as a draugr, and killing it twice without rites just makes it angrier.*
 
 ---
 
+## Episode 31 — Missionary Pressure (Codex §XXXI)
+
+*The White Christ at the door: baptism or refusal — the season of play where faith stops being private and becomes political.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **The Choice** | Campaign-level condition: in any district where a Christian king or missionary party is active, every household faces the Choice — baptism or refusal, a season of play, never a single roll | **Identical** |
+| **Converting** | Gain the king's/mission's favor — **advantage on Charisma checks** with the Christian power, trade and protection access. Cost: **−2 Orðstír** (old-faith community), **−1 Hamingja**; oath-helpers (§XXVI) may refuse an apostate | Favor grants **+2 on reaction rolls** with the Christian power (the advantage's OSE voice); costs **identical** |
+| **Secret conversion** | No favor, no immediate cost — until discovered, when *both* sides count it as betrayal (**−2 Orðstír** all around) | **Identical** |
+| **Refusing** | **+1 Orðstír** (faithful), **+1 Hamingja**; the Christian power becomes a feud-grade enemy (§XXI); lesser outlawry (§XXII) in fully-converted districts | **Identical** — the ancestors mark loyalty either system |
+| **Prime-signing** | The middle path: no favor, no penalty — but the contradiction must stay *secret*; discovery triggers both sides' costs at once | **Identical** |
+
+
+---
+
+## Episode 32 — The Viking Conduct Ledger (Codex §XXXII)
+
+*The GM-screen special: the culture's reward-and-punishment table, read aloud at the table's start and applied aloud with witnesses — because the culture did everything aloud, with witnesses.*
+
+| | D&D 5E | OSE |
+|---|---|---|
+| **The three purses** | Every behavior moves **Orðstír** (§I), **Hamingja** (§XVI), **Wyrd-debt** (§III), plus níð-marks (§XVII) | **Identical** — the ledgers are system-agnostic |
+| **Rewards** | Courage / oath kept / gift given openly → +1/+1; sumbel-vow fulfilled → +2/+1; óðal redeemed → +3; baptism refused (§XXXI) → +1/+1; dying well (§XIV) → half Orðstír inherited, saga-verse | **Identical** |
+| **Punishments** | Cowardice → −1 to −3/−1 Hamingja; oathbreaking → −2/+1 Wyrd-debt/1 níð-mark; sumbel-vow broken → −3/+2 Wyrd-debt/1 níð-mark/−1 Hamingja; theft by stealth → −2/1 níð-mark; killing the yielded → −2/−1 | **Identical** |
+| **The níðingr** | **3 níð-marks**: oath worthless, killable without weregild ⚠️, Hamingja capped at 3 | **Identical** |
+| **GM's maxim** | Reward in public, punish in public, and never silently — the table is the Thing | **Identical** |
+
+
+---
+
 *Future episodes ship with both stat blocks from the first draft. The
 setting never changes — only the dice.*

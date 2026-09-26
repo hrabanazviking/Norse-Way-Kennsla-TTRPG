@@ -60,6 +60,20 @@ Source (`norse-way-videos/`) → Destination (`videos/rules/` in Sagnaskemma)
 | `transcripts/ep23-draumr.md` | `videos/rules/transcripts/ep23-draumr.md` |
 | `transcripts/ep24-spa-utiseta.md` | `videos/rules/transcripts/ep24-spa-utiseta.md` |
 | `transcripts/ep25-landvaettir-dead.md` | `videos/rules/transcripts/ep25-landvaettir-dead.md` |
+| `videos/ep26-fosterage-kinship.mp4` | `videos/rules/ep26-fosterage-kinship.mp4` |
+| `videos/ep27-marriage-mundr-divorce.mp4` | `videos/rules/ep27-marriage-mundr-divorce.mp4` |
+| `videos/ep28-odal.mp4` | `videos/rules/ep28-odal.mp4` |
+| `videos/ep29-knattleikr-hnefatafl.mp4` | `videos/rules/ep29-knattleikr-hnefatafl.mp4` |
+| `videos/ep30-ship-culture.mp4` | `videos/rules/ep30-ship-culture.mp4` |
+| `videos/ep31-missionary-pressure.mp4` | `videos/rules/ep31-missionary-pressure.mp4` |
+| `videos/ep32-conduct-ledger.mp4` | `videos/rules/ep32-conduct-ledger.mp4` |
+| `transcripts/ep26-fosterage-kinship.md` | `videos/rules/transcripts/ep26-fosterage-kinship.md` |
+| `transcripts/ep27-marriage-mundr-divorce.md` | `videos/rules/transcripts/ep27-marriage-mundr-divorce.md` |
+| `transcripts/ep28-odal.md` | `videos/rules/transcripts/ep28-odal.md` |
+| `transcripts/ep29-knattleikr-hnefatafl.md` | `videos/rules/transcripts/ep29-knattleikr-hnefatafl.md` |
+| `transcripts/ep30-ship-culture.md` | `videos/rules/transcripts/ep30-ship-culture.md` |
+| `transcripts/ep31-missionary-pressure.md` | `videos/rules/transcripts/ep31-missionary-pressure.md` |
+| `transcripts/ep32-conduct-ledger.md` | `videos/rules/transcripts/ep32-conduct-ledger.md` |
 | `rules/README.md` | `videos/rules/rules/README.md` |
 | `THE_NORSE_WAY_COMPLETE_RULES.md` | `videos/rules/THE_NORSE_WAY_COMPLETE_RULES.md` |
 | `rules/ep01-ordstir.md` | `videos/rules/rules/ep01-ordstir.md` |
@@ -87,6 +101,13 @@ Source (`norse-way-videos/`) → Destination (`videos/rules/` in Sagnaskemma)
 | `rules/ep23-draumr.md` | `videos/rules/rules/ep23-draumr.md` |
 | `rules/ep24-spa-utiseta.md` | `videos/rules/rules/ep24-spa-utiseta.md` |
 | `rules/ep25-landvaettir-dead.md` | `videos/rules/rules/ep25-landvaettir-dead.md` |
+| `rules/ep26-fosterage-kinship.md` | `videos/rules/rules/ep26-fosterage-kinship.md` |
+| `rules/ep27-marriage-mundr-divorce.md` | `videos/rules/rules/ep27-marriage-mundr-divorce.md` |
+| `rules/ep28-odal.md` | `videos/rules/rules/ep28-odal.md` |
+| `rules/ep29-knattleikr-hnefatafl.md` | `videos/rules/rules/ep29-knattleikr-hnefatafl.md` |
+| `rules/ep30-ship-culture.md` | `videos/rules/rules/ep30-ship-culture.md` |
+| `rules/ep31-missionary-pressure.md` | `videos/rules/rules/ep31-missionary-pressure.md` |
+| `rules/ep32-conduct-ledger.md` | `videos/rules/rules/ep32-conduct-ledger.md` |
 
 Production sources (`scripts/`, `audio/`, `clips/`, `assets/`, `assemble*.sh`)
 stay in the public repo only — Sagnaskemma keeps the publishable artifacts

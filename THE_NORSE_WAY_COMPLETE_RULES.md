@@ -40,6 +40,8 @@
 28. [Óðal — Full Rule Expansion (The Norse Way, Episode 28)](#óðal-full-rule-expansion-the-norse-way-episode-28)
 29. [Knattleikr & Hnefatafl — Full Rule Expansion (The Norse Way, Episode 29)](#knattleikr-hnefatafl-full-rule-expansion-the-norse-way-episode-29)
 30. [Ship-Culture — Full Rule Expansion (The Norse Way, Episode 30)](#ship-culture-full-rule-expansion-the-norse-way-episode-30)
+31. [Missionary Pressure — Full Rule Expansion (The Norse Way, Episode 31)](#missionary-pressure-full-rule-expansion-the-norse-way-episode-31)
+32. [The Conduct Ledger — Full Rule Expansion (The Norse Way, Episode 32)](#the-conduct-ledger-full-rule-expansion-the-norse-way-episode-32)
 
 ---
 
@@ -4178,3 +4180,266 @@ has surrendered a fortune under a mound will ever call a funeral "flavor."
 | Maintenance cost scaled to the weregild ladder; failures dramatic and survivable-with-cost; two starved winters → fails on 1–3 | Assistant-added development |
 | Ship-burial reserved for the great dead (15+ Orðstír or skald-worthy death; wasted ship → −1 household); mound as a place of power (+1 Hamingja for mound-keeping descendants, §XXV) | Assistant-added development |
 | OSE conversions (storm-save penalty as +2; keep costs in gp) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 30) |
+
+---
+
+## Missionary Pressure — Full Rule Expansion (The Norse Way, Episode 31)
+**Video:** `videos/ep31-missionary-pressure.mp4` · **Transcript:** `transcripts/ep31-missionary-pressure.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXXI` — this file expands that section; additions the codex
+leaves open are labeled **(Expansion)**.
+
+### I. Grounding — Why It Is True
+Canon names Christian missionaries a social threat, and the sagas agree: the conversion age was
+not a gentle persuasion but a *political struggle*. Óláfr Tryggvason forced baptism at
+sword-point across Norway — *prime-signing* or the axe — and the old faith's defenders answered
+with defiance, mockery, and sometimes steel [Heim]. The missionaries came with a king's backing,
+a foreign god, and an offer that split families: convert and keep the king's friendship, or hold
+to the old ways and stand outside the new power. It was, in saga terms, the ultimate
+*frith-question*: whose peace would the land keep?
+
+The mechanic is faith made political. The pressure arrives not as a sermon but as a
+campaign-level condition: in any district where a Christian king or missionary party is active,
+every household faces the **Choice**, sooner or later — baptism or refusal. This is never a
+single roll; it is a *season* of play — feasts where the priest preaches, the king's favor
+visibly flowing to the converted, trade-ties strained. The codex is blunt about the stakes: the
+choice of gods was the choice of *which community's peace you would live under* — protection,
+trade, law, and standing all flowed from the same fount as the god.
+
+The middle path is history's truth, and the codex names it the GM's mercy: many households
+*prime-signed* (took the preliminary blessing) to trade with Christians while keeping the old
+rites at home. The baptism was real enough to satisfy the king's toll-men and hollow enough to
+satisfy the ancestors — until it was discovered, and then both sides counted it as betrayal.
+
+### II. The Complete Playable Rule
+#### At a 5E Table
+**The pressure.** A campaign-level condition the GM may invoke: in any district where a
+Christian king or missionary party is active, every household faces the Choice, sooner or later
+— baptism or refusal. **(Expansion)** Run it as a season of play: 2–3 scenes per session that
+touch the contradiction — the feast where the priest preaches at the high table; the king's
+favor visibly flowing (converted households get the better trade prices, the refusal houses
+watch); old trade ties straining as Christian merchants deal only with the baptized. The scenes
+should recur, not conclude: the pressure is weather, not an event.
+
+**Converting.** Gain the king's/mission's favor — **advantage on Charisma checks with the
+Christian power**, access to their trade and protection. Cost: **−2 Orðstír among the old-faith
+community**, **−1 Hamingja** (the luck-line is ancestral, and the ancestors were not baptized —
+§XXV), and the kin-group's standing fractures: oath-helpers (§XXVI) may refuse to stand for an
+apostate. **Secret conversion** (baptized abroad, pagan at home — the saga's common compromise):
+no favor, but no immediate cost — until discovered, when *both* sides count it as betrayal
+(**−2 Orðstír** all around).
+
+**(Expansion)** *Discovery mechanics for keeping the contradiction hidden.* When a PC maintains a
+secret conversion (or a secret prime-signing), the GM rolls a secret **Deception** check for the
+PC against the passive Insight of the watching party — the priest's household, the old-faith
+neighbors, whichever is more attentive that season. The DC escalates each season the
+contradiction continues (base 12, +2 per season): contradictions grow harder to hold. On
+failure, the truth comes out — publicly enough to matter (a slip at the feast, a rite witnessed
+through an open door, a missionary's ledger) — and the costs land all at once.
+
+**(Expansion)** *Baptism of children under pressure.* The codex's conversion stakes cut deepest
+at the hearth's edge: when a Christian power demands the household's children baptized, the
+parents' answer moves the ledger for the whole house. Refusing with the children at your side:
+**+1 Hamingja** (household) — the luck-line defended at its root. Having the children forced:
+**−1 Hamingja** (household) — the ancestors' line broken at its root. These are the table's
+generational stakes, and the GM should name them before the scene, not after.
+
+**Refusing.** **+1 Orðstír** among the faithful and **+1 Hamingja** — the ancestors mark the
+loyalty — but the Christian power becomes a **feud-grade enemy** (§XXI): trade closed, the
+king's Thing hostile, missionaries preaching against you by name. In a fully-converted district,
+refusal can mean **lesser outlawry** (§XXII) — the new law criminalizing the old custom.
+
+**The middle path.** Prime-signing (the preliminary blessing) to trade with Christians while
+keeping the old rites at home: mechanically, no favor, no penalty — but the character must keep
+the contradiction *secret*, and discovery triggers both sides' costs at once. Living the
+contradiction is its own adventure.
+
+#### At an OSE Table
+- The pressure: a campaign-level condition — a season of play (2–3 scenes per session: the
+  feast-preaching scene, the king's favor visibly flowing, trade ties straining), never a
+  single roll — **identical**.
+- Converting: the king's/mission's favor grants **+2 on reaction rolls** with the Christian
+  power (the advantage's OSE voice), plus trade and protection access; cost: **−2 Orðstír**
+  among the old-faith community, **−1 Hamingja** (the ancestors were not baptized, §XXV),
+  oath-helpers (§XXVI) may refuse an apostate; secret conversion: no favor, no cost until
+  discovered — then −2 Orðstír all around — **identical**.
+- Refusing: **+1 Orðstír** among the faithful, **+1 Hamingja**; the Christian power becomes a
+  feud-grade enemy (§XXI) — trade closed, the king's Thing hostile, missionaries preaching
+  against you by name; lesser outlawry (§XXII) in fully-converted districts — **identical**.
+- The middle path: prime-signing to trade, old rites at home — no favor, no penalty, but the
+  contradiction must stay secret; discovery triggers both sides' costs at once — **identical**.
+- **(Expansion)** Discovery: the GM rolls in secret for the PC keeping the contradiction —
+  OSE idiom: a thief-hear-noise style d6 or a 2d6 reaction check against a set target, DC
+  escalating each season — **identical** in effect.
+- **(Expansion)** Baptism of children under pressure: refusing with the children at your side
+  → +1 Hamingja (household); children forced → −1 Hamingja (household) — **identical**.
+
+#### Worked Example
+*Illustrative — hypothetical rolls, not a real session.* The household of the PC Bjarni faces
+the Choice as Óláfr's missionaries settle in the district. Bjarni's sister Halldóra converts
+openly: she gains the king's favor (advantage on her Charisma checks with the Christian power,
+trade opened) but takes −2 Orðstír among the old-faith community and −1 Hamingja — and when her
+brother needs oath-helpers at the Thing, the old-faith neighbors look away. Bjarni refuses: +1
+Orðstír among the faithful, +1 Hamingja, but the king's men close his trade and the missionaries
+preach against him by name — a feud-grade enemy made. Their cousin Eiríkr prime-signs in
+secret to keep trading: no favor, no penalty — but in the second season the GM's secret
+Deception check (DC 14) fails at the winter feast, and Eiríkr takes both sides' costs at once:
+−2 Orðstír all around, trusted by neither hall. At an OSE table the same beats are identical —
+the +2 reaction-roll favor, the same ledger movements, the d6 discovery roll — because the
+pressure is political, and politics counts the same in any system.
+
+### III. Teaching Beat — What the Table Learns
+The conversion stops being "history" and becomes *the table's own religious crisis* — players
+feel in their ledgers what the sagas describe: that faith here was never private, always
+political, and the choice of gods was the choice of *which community's peace you would live
+under*. No modern "tolerance" mechanics apply, and their absence is the lesson. The sibling
+split across three choices teaches it best: one hall cannot contain two peace-pacts, and the
+ledger — not the GM's opinion — delivers the verdict.
+
+### Provenance
+| Claim | Source |
+|---|---|
+| Christian missionaries a social threat; conversion age as political struggle — Óláfr Tryggvason forced baptism at sword-point, prime-signing or the axe; king's backing, foreign god, offer splitting families; the frith-question: whose peace would the land keep | Historical/media-derived adaptation [Heim] |
+| The pressure: campaign-level condition; the Choice (baptism or refusal); never a single roll — a season of play (feasts, king's favor visibly flowing, trade-ties strained) | Verified Volmarr-authored supplement (codex §XXXI) |
+| Converting: advantage on Charisma checks with the Christian power, trade/protection access; −2 Orðstír old-faith community, −1 Hamingja (ancestors not baptized, §XXV); oath-helpers §XXVI may refuse an apostate | Verified Volmarr-authored supplement (codex §§XXV, XXVI, XXXI) |
+| Secret conversion: no favor, no immediate cost; discovery = both sides count betrayal, −2 Orðstír all around | Verified Volmarr-authored supplement (codex §XXXI) |
+| Refusing: +1 Orðstír among the faithful, +1 Hamingja; Christian power a feud-grade enemy §XXI (trade closed, king's Thing hostile, missionaries preaching against you by name); lesser outlawry §XXII in fully-converted districts | Verified Volmarr-authored supplement (codex §§XXI, XXII, XXXI) |
+| Middle path: prime-signing to trade while keeping old rites at home; no favor, no penalty; contradiction must stay secret; discovery triggers both sides' costs at once | Verified Volmarr-authored supplement (codex §XXXI) |
+| Teaching Beat: faith political never private; no modern tolerance mechanics, their absence the lesson | Verified Volmarr-authored supplement (codex §XXXI) |
+| Running the season of play (2–3 scenes per session, feast-preaching, visible favor, straining trade ties); secret Deception vs. passive Insight, DC 12 +2/season; children's baptism under pressure (±1 Hamingja household) | Assistant-added development |
+| OSE conversions (advantage → +2 reaction rolls; discovery via d6 / 2d6 checks) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 31) |
+
+---
+
+## The Conduct Ledger — Full Rule Expansion (The Norse Way, Episode 32)
+**Video:** `videos/ep32-conduct-ledger.mp4` · **Transcript:** `transcripts/ep32-conduct-ledger.md`
+**Codex source:** `HOMEBREW_CODEX.md §XXXII` — this file expands that section; additions the codex
+leaves open are labeled **(Expansion)**.
+
+### I. Grounding — Why It Is True
+The culture did everything *aloud, with witnesses*. Honor and shame were not private
+consciences but a public ledger: oaths sworn before the hall, gifts given openly, feuds settled
+at the Thing — every deed weighed where everyone could see it. The Thing was the witnessing
+body, and the witnessing was the enforcement: a community that watches everything needs no
+secret police. The saga evidence runs through the codex — courage before witnesses rewarded,
+cowardice before witnesses marked; the oath-keeper raised up, the oath-breaker written down in
+níð.
+
+The GM's screen is the Thing's mirror. The ledger's purpose is not punishment-play but
+teaching: a player whose every public deed moves a visible purse learns the honor economy the
+way a child of the culture learned it — by watching the hall react. Read the ledger at the
+table's start; apply it aloud, with witnesses; and the GM's maxim does the rest: *reward in
+public, punish in public, and never silently.*
+
+### II. The Complete Playable Rule
+#### At a 5E Table
+**Rewards** — acting the true Viking. Each behavior moves the three purses — **Orðstír** (§I),
+**Hamingja** (§XVI), **Wyrd-debt** (§III) — exactly as stated:
+
+| Behavior | Reward |
+|---|---|
+| Courage in battle, before witnesses | +1 Orðstír, +1 Hamingja |
+| Keeping an oath at real cost | +1 Orðstír, +1 Hamingja |
+| Fulfilling a sumbel-vow (§XIX) | +2 Orðstír, +1 Hamingja |
+| Generous gift given openly (§VI) | +1 Orðstír, +1 Hamingja |
+| Lavish hospitality (§VIII) | +1 Orðstír |
+| Victory in holmgang (§XI) | +1 Orðstír |
+| Composing a drápa for another (§XX) | +1 Orðstír (subject +1 too) |
+| Settling a feud honorably at the Thing (§XXI) | +1 Orðstír both houses |
+| Redeeming lost óðal (§XXVIII) | +3 Orðstír |
+| Defending the óðal successfully | +2 Orðstír, +1 Hamingja |
+| Heeding a true dream (§XXIII) | +1 Hamingja |
+| Honoring landvættir on entering new land (§XXV) | +1 Hamingja |
+| Tending the ancestors' mound, season kept | +1 Hamingja (household) |
+| Answering a kin-claim (§XXVI) | +1 Orðstír, kin owes a favor |
+| Refusing baptism under pressure (§XXXI) | +1 Orðstír (old-faith), +1 Hamingja |
+| Marrying across a feud to settle it (§XXVII) | +2 Orðstír both houses |
+| Dying well (§XIV) | Half Orðstír inherited; saga-verse |
+| Winning knattleikr as captain (§XXIX) | +1 Orðstír |
+
+**Punishments** — un-Viking conduct:
+
+| Behavior | Punishment |
+|---|---|
+| Cowardice before witnesses | −1 to −3 Orðstír, −1 Hamingja, 1 níð-mark if formal |
+| Oathbreaking (§IX) | −2 Orðstír, +1 Wyrd-debt, 1 níð-mark |
+| Breaking a sumbel-vow (§XIX) | −3 Orðstír, +2 Wyrd-debt, 1 níð-mark, −1 Hamingja |
+| Theft by stealth | −2 Orðstír, 1 níð-mark |
+| Killing one who has yielded | −2 Orðstír, −1 Hamingja |
+| Insult unanswered (flyting/níðvísa, §§X, XX) | −1 Orðstír, or 1 níð-mark |
+| Miserliness at the feast-table | −1 Orðstír, −1 Hamingja |
+| Mocking a true dream (§XXIII) | −1 Orðstír (among hearers) |
+| Ignoring a rightly-read dream | −1 Hamingja; disaster at full force |
+| Insulting the landvættir (§XXV) | −2 Hamingja + haunting until atonement |
+| Neglecting the ancestors a full year | −1 Hamingja; restless dreams |
+| Ignoring a kin-claim without excuse (§XXVI) | −1 Orðstír, −1 Hamingja |
+| Betraying foster-kin (§XXVI) | 2 níð-marks |
+| Raising a false níðstöng (§XVII) | 2 níð-marks |
+| Proven ergi-act (§XVIII) | 1 níð-mark, −2 Orðstír, −1 Hamingja |
+| Surrendering the óðal without a fight (§XXVIII) | −2 Orðstír, −1 Hamingja |
+| Losing a ship by cowardice/negligence (§XXX) | −2 Orðstír, −1 Hamingja |
+| Secret vengeance (murder by night, denied) (§XXI) | 1 níð-mark; the debt stands |
+| Unsettled blood-debt at Burning, per month (§XXI) | −1 Hamingja |
+| Converting under pressure (§XXXI) | −2 Orðstír (old-faith), −1 Hamingja |
+| Revealed non-human among humans (§XXXIII) | Disadvantage on Persuasion/Deception, advantage on Intimidation; no Orðstír earned while known; Hamingja unstable |
+
+**The níðingr rule.** At **3 níð-marks**, a character becomes *níðingr* — oath worthless,
+killable without weregild ⚠️, Hamingja capped at 3.
+
+**(Expansion)** *Reading it aloud at the table's start.* The codex says "read it at the table's
+start; apply it aloud, with witnesses" — here is the procedure. At session zero the GM reads
+the full ledger to the table, and the rewards and punishments are written on a visible sheet
+(the table's copy of the GM's screen) that stays face-up all campaign. When a deed qualifies,
+the GM announces the ledger movement in the moment — "The hall saw it: +1 Orðstír, +1 Hamingja"
+— and marks it on the sheet where everyone watches. No silent adjustments, no between-session
+bookkeeping surprises. The procedure is the culture: everything aloud, with witnesses.
+
+**(Expansion)** *Wyrd-debt repayment guidance.* Wyrd-debt is a purse, not a sentence — debts
+clear. A Wyrd-debt point clears through **repayment** (making good the wrong in silver or deed
+to the injured party), **atonement** (a public act named at the Thing — weregild paid, a vow
+fulfilled before witnesses), or **dream-deeds** (answering a dream that demands restitution,
+§XXIII). The GM clears the debt aloud, with witnesses, exactly as the punishment landed: the
+ledger opens both ways. Debts left unsettled fester — see *unsettled blood-debt at Burning, per
+month* above.
+
+#### At an OSE Table
+- The conduct ledger is fully system-agnostic: Orðstír, Hamingja, Wyrd-debt, and níð-mark
+  movements are **identical** in OSE — every reward and punishment row above moves the same
+  purses by the same numbers.
+- The §XXXIII revealed-non-human row: where Charisma mechanics exist, use the OSE reaction-roll
+  idiom per the HR1 bedrock (penalty/bonus on reaction rolls rather than
+  advantage/disadvantage) — **identical** in effect.
+- The níðingr rule (3 níð-marks: oath worthless, killable without weregild ⚠️, Hamingja capped
+  at 3): **identical**.
+- The (Expansion) procedures — reading the ledger aloud at the table's start onto a visible
+  sheet, and Wyrd-debt clearing through repayment, atonement, or dream-deeds — **identical**.
+
+#### Worked Example
+*Illustrative — hypothetical rolls, not a real session.* At the winter Thing, two PCs stand
+before the hall. The first, Signý, kept an oath at real cost — she honored her pledged aid to a
+rival house though it cost her own harvest share. The GM names it aloud, with witnesses:
+**+1 Orðstír, +1 Hamingja**, marked on the visible sheet while the hall watches. The second,
+Gizurr, stole a neighbor's seal-net by night and lied to the Thing about it. The GM names it
+aloud, with witnesses: **−2 Orðstír, 1 níð-mark** — and because the theft was by stealth, the
+níð-mark stands even though the silver is returned; the debt of trust is its own thing. Signý's
+luck-line brightens before everyone's eyes; Gizurr's name darkens on the sheet. Nobody at the
+table needed a lecture on honor — the ledger, read aloud, taught it. At an OSE table the same
+beats are identical: the same purses, the same numbers, the same witnesses.
+
+### III. Teaching Beat — What the Table Learns
+The culture did everything aloud with witnesses — the table as Thing. Behavior tracked on a
+visible ledger, rewards announced and punishments named in front of the group, teaches the
+honor economy better than any lecture on "reputation mechanics": players learn to act for the
+hall's eyes because the hall's eyes are *there*. The maxim is the whole method — *reward in
+public, punish in public, and never silently* — and a table that witnesses everything will find
+the culture teaching itself.
+
+### Provenance
+| Claim | Source |
+|---|---|
+| The conduct ledger moves the three purses — Orðstír (§I), Hamingja (§XVI), Wyrd-debt (§III) — plus níð-marks (§XVII); read at the table's start, applied aloud with witnesses; GM's maxim: reward in public, punish in public, never silently | Verified Volmarr-authored supplement (codex §XXXII) |
+| Full Rewards table (all 18 rows with numbers: courage, oath kept, sumbel-vow, gift, hospitality, holmgang, drápa, feud settled, óðal redeemed +3, óðal defended, true dream, landvættir, mound kept, kin-claim answered, baptism refused, feud-marriage, dying well, knattleikr captain) | Verified Volmarr-authored supplement (codex §XXXII) |
+| Full Punishments table (all 21 rows with numbers: cowardice −1 to −3, oathbreaking, sumbel-vow broken, theft by stealth, killing the yielded, insult unanswered, miserliness, dream rows, landvættir insult, ancestor neglect, kin-claim ignored, foster-kin betrayal, false níðstöng, ergi, óðal surrendered, ship lost, secret vengeance, blood-debt monthly, converting under pressure, revealed non-human §XXXIII) | Verified Volmarr-authored supplement (codex §XXXII) |
+| 3 níð-marks = níðingr: oath worthless, killable without weregild ⚠️, Hamingja capped at 3 | Verified Volmarr-authored supplement (codex §XXXII) |
+| Grounding: the culture did everything aloud with witnesses; the Thing as the witnessing body; the GM's screen as the Thing's mirror | Verified Volmarr-authored supplement (codex §XXXII Teaching Beat) |
+| Reading-aloud procedure (session-zero reading, visible face-up sheet, announced in the moment); Wyrd-debt repayment guidance (repayment, atonement at the Thing, dream-deeds; debts cleared aloud) | Assistant-added development |
+| OSE conversions (ledger movements system-agnostic → identical; reaction-roll idiom for the §XXXIII Charisma row) | Verified Volmarr-authored supplement (`SYSTEM_VARIANTS.md` Ep 32) |
